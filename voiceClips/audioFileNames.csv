@@ -1,0 +1,895 @@
+type,filename,text
+trialstart-sp,trialstart-sp-charlie-candy.mp3,Here are Charlie and you! Charlie's backpack has 10 candies inside and you have none!
+distprompt-sp,distprompt-sp-charlie-candy.mp3,Let's see how many candies Charlie gives to you!
+trialstart-sp,trialstart-sp-charlie-bug.mp3,Here are Charlie and you! Charlie's backpack has 10 bugs inside and you have none!
+distprompt-sp,distprompt-sp-charlie-bug.mp3,Let's see how many bugs Charlie gives to you!
+distcomplete-sp,distcomplete-sp-charlie-gave-you-1-candy.mp3,Look! Charlie gave you one candy!
+distcomplete-sp,distcomplete-sp-charlie-gave-you-1-bug.mp3,Look! Charlie gave you one bug!
+distcomplete-sp,distcomplete-sp-charlie-gave-you-5-candy.mp3,Look! Charlie gave you five candies!
+distcomplete-sp,distcomplete-sp-charlie-gave-you-5-bug.mp3,Look! Charlie gave you five bugs!
+distcomplete-sp,distcomplete-sp-charlie-gave-you-9-candy.mp3,Look! Charlie gave you nine candies!
+distcomplete-sp,distcomplete-sp-charlie-gave-you-9-bug.mp3,Look! Charlie gave you nine bugs!
+emotion-sp,emotion-sp-charlie.mp3,"How do you feel about what Charlie gave you? Remember, you can pick as many feelings as you want!"
+valence-sp,valence-sp-charlie.mp3,How happy or unhappy do you feel about what Charlie gave you?
+arousal-sp,arousal-sp-charlie.mp3,How sleepy or awake do you feel about what Charlie gave you?
+trialstart-sp,trialstart-sp-sam-candy.mp3,Here are Sam and you! Sam's backpack has 10 candies inside and you have none!
+distprompt-sp,distprompt-sp-sam-candy.mp3,Let's see how many candies Sam gives to you!
+trialstart-sp,trialstart-sp-sam-bug.mp3,Here are Sam and you! Sam's backpack has 10 bugs inside and you have none!
+distprompt-sp,distprompt-sp-sam-bug.mp3,Let's see how many bugs Sam gives to you!
+distcomplete-sp,distcomplete-sp-sam-gave-you-1-candy.mp3,Look! Sam gave you one candy!
+distcomplete-sp,distcomplete-sp-sam-gave-you-1-bug.mp3,Look! Sam gave you one bug!
+distcomplete-sp,distcomplete-sp-sam-gave-you-5-candy.mp3,Look! Sam gave you five candies!
+distcomplete-sp,distcomplete-sp-sam-gave-you-5-bug.mp3,Look! Sam gave you five bugs!
+distcomplete-sp,distcomplete-sp-sam-gave-you-9-candy.mp3,Look! Sam gave you nine candies!
+distcomplete-sp,distcomplete-sp-sam-gave-you-9-bug.mp3,Look! Sam gave you nine bugs!
+emotion-sp,emotion-sp-sam.mp3,"How do you feel about what Sam gave you? Remember, you can pick as many feelings as you want!"
+valence-sp,valence-sp-sam.mp3,How happy or unhappy do you feel about what Sam gave you?
+arousal-sp,arousal-sp-sam.mp3,How sleepy or awake do you feel about what Sam gave you?
+trialstart-sp,trialstart-sp-alex-candy.mp3,Here are Alex and you! Alex's backpack has 10 candies inside and you have none!
+distprompt-sp,distprompt-sp-alex-candy.mp3,Let's see how many candies Alex gives to you!
+trialstart-sp,trialstart-sp-alex-bug.mp3,Here are Alex and you! Alex's backpack has 10 bugs inside and you have none!
+distprompt-sp,distprompt-sp-alex-bug.mp3,Let's see how many bugs Alex gives to you!
+distcomplete-sp,distcomplete-sp-alex-gave-you-1-candy.mp3,Look! Alex gave you one candy!
+distcomplete-sp,distcomplete-sp-alex-gave-you-1-bug.mp3,Look! Alex gave you one bug!
+distcomplete-sp,distcomplete-sp-alex-gave-you-5-candy.mp3,Look! Alex gave you five candies!
+distcomplete-sp,distcomplete-sp-alex-gave-you-5-bug.mp3,Look! Alex gave you five bugs!
+distcomplete-sp,distcomplete-sp-alex-gave-you-9-candy.mp3,Look! Alex gave you nine candies!
+distcomplete-sp,distcomplete-sp-alex-gave-you-9-bug.mp3,Look! Alex gave you nine bugs!
+emotion-sp,emotion-sp-alex.mp3,"How do you feel about what Alex gave you? Remember, you can pick as many feelings as you want!"
+valence-sp,valence-sp-alex.mp3,How happy or unhappy do you feel about what Alex gave you?
+arousal-sp,arousal-sp-alex.mp3,How sleepy or awake do you feel about what Alex gave you?
+trialstart-sp,trialstart-sp-avery-candy.mp3,Here are Avery and you! Avery's backpack has 10 candies inside and you have none!
+distprompt-sp,distprompt-sp-avery-candy.mp3,Let's see how many candies Avery gives to you!
+trialstart-sp,trialstart-sp-avery-bug.mp3,Here are Avery and you! Avery's backpack has 10 bugs inside and you have none!
+distprompt-sp,distprompt-sp-avery-bug.mp3,Let's see how many bugs Avery gives to you!
+distcomplete-sp,distcomplete-sp-avery-gave-you-1-candy.mp3,Look! Avery gave you one candy!
+distcomplete-sp,distcomplete-sp-avery-gave-you-1-bug.mp3,Look! Avery gave you one bug!
+distcomplete-sp,distcomplete-sp-avery-gave-you-5-candy.mp3,Look! Avery gave you five candies!
+distcomplete-sp,distcomplete-sp-avery-gave-you-5-bug.mp3,Look! Avery gave you five bugs!
+distcomplete-sp,distcomplete-sp-avery-gave-you-9-candy.mp3,Look! Avery gave you nine candies!
+distcomplete-sp,distcomplete-sp-avery-gave-you-9-bug.mp3,Look! Avery gave you nine bugs!
+emotion-sp,emotion-sp-avery.mp3,"How do you feel about what Avery gave you? Remember, you can pick as many feelings as you want!"
+valence-sp,valence-sp-avery.mp3,How happy or unhappy do you feel about what Avery gave you?
+arousal-sp,arousal-sp-avery.mp3,How sleepy or awake do you feel about what Avery gave you?
+trialstart-sp,trialstart-sp-riley-candy.mp3,Here are Riley and you! Riley's backpack has 10 candies inside and you have none!
+distprompt-sp,distprompt-sp-riley-candy.mp3,Let's see how many candies Riley gives to you!
+trialstart-sp,trialstart-sp-riley-bug.mp3,Here are Riley and you! Riley's backpack has 10 bugs inside and you have none!
+distprompt-sp,distprompt-sp-riley-bug.mp3,Let's see how many bugs Riley gives to you!
+distcomplete-sp,distcomplete-sp-riley-gave-you-1-candy.mp3,Look! Riley gave you one candy!
+distcomplete-sp,distcomplete-sp-riley-gave-you-1-bug.mp3,Look! Riley gave you one bug!
+distcomplete-sp,distcomplete-sp-riley-gave-you-5-candy.mp3,Look! Riley gave you five candies!
+distcomplete-sp,distcomplete-sp-riley-gave-you-5-bug.mp3,Look! Riley gave you five bugs!
+distcomplete-sp,distcomplete-sp-riley-gave-you-9-candy.mp3,Look! Riley gave you nine candies!
+distcomplete-sp,distcomplete-sp-riley-gave-you-9-bug.mp3,Look! Riley gave you nine bugs!
+emotion-sp,emotion-sp-riley.mp3,"How do you feel about what Riley gave you? Remember, you can pick as many feelings as you want!"
+valence-sp,valence-sp-riley.mp3,How happy or unhappy do you feel about what Riley gave you?
+arousal-sp,arousal-sp-riley.mp3,How sleepy or awake do you feel about what Riley gave you?
+trialstart-sp,trialstart-sp-blake-candy.mp3,Here are Blake and you! Blake's backpack has 10 candies inside and you have none!
+distprompt-sp,distprompt-sp-blake-candy.mp3,Let's see how many candies Blake gives to you!
+trialstart-sp,trialstart-sp-blake-bug.mp3,Here are Blake and you! Blake's backpack has 10 bugs inside and you have none!
+distprompt-sp,distprompt-sp-blake-bug.mp3,Let's see how many bugs Blake gives to you!
+distcomplete-sp,distcomplete-sp-blake-gave-you-1-candy.mp3,Look! Blake gave you one candy!
+distcomplete-sp,distcomplete-sp-blake-gave-you-1-bug.mp3,Look! Blake gave you one bug!
+distcomplete-sp,distcomplete-sp-blake-gave-you-5-candy.mp3,Look! Blake gave you five candies!
+distcomplete-sp,distcomplete-sp-blake-gave-you-5-bug.mp3,Look! Blake gave you five bugs!
+distcomplete-sp,distcomplete-sp-blake-gave-you-9-candy.mp3,Look! Blake gave you nine candies!
+distcomplete-sp,distcomplete-sp-blake-gave-you-9-bug.mp3,Look! Blake gave you nine bugs!
+emotion-sp,emotion-sp-blake.mp3,"How do you feel about what Blake gave you? Remember, you can pick as many feelings as you want!"
+valence-sp,valence-sp-blake.mp3,How happy or unhappy do you feel about what Blake gave you?
+arousal-sp,arousal-sp-blake.mp3,How sleepy or awake do you feel about what Blake gave you?
+trialstart-sp,trialstart-sp-jamie-candy.mp3,Here are Jamie and you! Jamie's backpack has 10 candies inside and you have none!
+distprompt-sp,distprompt-sp-jamie-candy.mp3,Let's see how many candies Jamie gives to you!
+trialstart-sp,trialstart-sp-jamie-bug.mp3,Here are Jamie and you! Jamie's backpack has 10 bugs inside and you have none!
+distprompt-sp,distprompt-sp-jamie-bug.mp3,Let's see how many bugs Jamie gives to you!
+distcomplete-sp,distcomplete-sp-jamie-gave-you-1-candy.mp3,Look! Jamie gave you one candy!
+distcomplete-sp,distcomplete-sp-jamie-gave-you-1-bug.mp3,Look! Jamie gave you one bug!
+distcomplete-sp,distcomplete-sp-jamie-gave-you-5-candy.mp3,Look! Jamie gave you five candies!
+distcomplete-sp,distcomplete-sp-jamie-gave-you-5-bug.mp3,Look! Jamie gave you five bugs!
+distcomplete-sp,distcomplete-sp-jamie-gave-you-9-candy.mp3,Look! Jamie gave you nine candies!
+distcomplete-sp,distcomplete-sp-jamie-gave-you-9-bug.mp3,Look! Jamie gave you nine bugs!
+emotion-sp,emotion-sp-jamie.mp3,"How do you feel about what Jamie gave you? Remember, you can pick as many feelings as you want!"
+valence-sp,valence-sp-jamie.mp3,How happy or unhappy do you feel about what Jamie gave you?
+arousal-sp,arousal-sp-jamie.mp3,How sleepy or awake do you feel about what Jamie gave you?
+trialstart-sp,trialstart-sp-quinn-candy.mp3,Here are Quinn and you! Quinn's backpack has 10 candies inside and you have none!
+distprompt-sp,distprompt-sp-quinn-candy.mp3,Let's see how many candies Quinn gives to you!
+trialstart-sp,trialstart-sp-quinn-bug.mp3,Here are Quinn and you! Quinn's backpack has 10 bugs inside and you have none!
+distprompt-sp,distprompt-sp-quinn-bug.mp3,Let's see how many bugs Quinn gives to you!
+distcomplete-sp,distcomplete-sp-quinn-gave-you-1-candy.mp3,Look! Quinn gave you one candy!
+distcomplete-sp,distcomplete-sp-quinn-gave-you-1-bug.mp3,Look! Quinn gave you one bug!
+distcomplete-sp,distcomplete-sp-quinn-gave-you-5-candy.mp3,Look! Quinn gave you five candies!
+distcomplete-sp,distcomplete-sp-quinn-gave-you-5-bug.mp3,Look! Quinn gave you five bugs!
+distcomplete-sp,distcomplete-sp-quinn-gave-you-9-candy.mp3,Look! Quinn gave you nine candies!
+distcomplete-sp,distcomplete-sp-quinn-gave-you-9-bug.mp3,Look! Quinn gave you nine bugs!
+emotion-sp,emotion-sp-quinn.mp3,"How do you feel about what Quinn gave you? Remember, you can pick as many feelings as you want!"
+valence-sp,valence-sp-quinn.mp3,How happy or unhappy do you feel about what Quinn gave you?
+arousal-sp,arousal-sp-quinn.mp3,How sleepy or awake do you feel about what Quinn gave you?
+trialstart-sp,trialstart-sp-jessy-candy.mp3,Here are Jessy and you! Jessy's backpack has 10 candies inside and you have none!
+distprompt-sp,distprompt-sp-jessy-candy.mp3,Let's see how many candies Jessy gives to you!
+trialstart-sp,trialstart-sp-jessy-bug.mp3,Here are Jessy and you! Jessy's backpack has 10 bugs inside and you have none!
+distprompt-sp,distprompt-sp-jessy-bug.mp3,Let's see how many bugs Jessy gives to you!
+distcomplete-sp,distcomplete-sp-jessy-gave-you-1-candy.mp3,Look! Jessy gave you one candy!
+distcomplete-sp,distcomplete-sp-jessy-gave-you-1-bug.mp3,Look! Jessy gave you one bug!
+distcomplete-sp,distcomplete-sp-jessy-gave-you-5-candy.mp3,Look! Jessy gave you five candies!
+distcomplete-sp,distcomplete-sp-jessy-gave-you-5-bug.mp3,Look! Jessy gave you five bugs!
+distcomplete-sp,distcomplete-sp-jessy-gave-you-9-candy.mp3,Look! Jessy gave you nine candies!
+distcomplete-sp,distcomplete-sp-jessy-gave-you-9-bug.mp3,Look! Jessy gave you nine bugs!
+emotion-sp,emotion-sp-jessy.mp3,"How do you feel about what Jessy gave you? Remember, you can pick as many feelings as you want!"
+valence-sp,valence-sp-jessy.mp3,How happy or unhappy do you feel about what Jessy gave you?
+arousal-sp,arousal-sp-jessy.mp3,How sleepy or awake do you feel about what Jessy gave you?
+trialstart-sp,trialstart-sp-micah-candy.mp3,Here are Micah and you! Micah's backpack has 10 candies inside and you have none!
+distprompt-sp,distprompt-sp-micah-candy.mp3,Let's see how many candies Micah gives to you!
+trialstart-sp,trialstart-sp-micah-bug.mp3,Here are Micah and you! Micah's backpack has 10 bugs inside and you have none!
+distprompt-sp,distprompt-sp-micah-bug.mp3,Let's see how many bugs Micah gives to you!
+distcomplete-sp,distcomplete-sp-micah-gave-you-1-candy.mp3,Look! Micah gave you one candy!
+distcomplete-sp,distcomplete-sp-micah-gave-you-1-bug.mp3,Look! Micah gave you one bug!
+distcomplete-sp,distcomplete-sp-micah-gave-you-5-candy.mp3,Look! Micah gave you five candies!
+distcomplete-sp,distcomplete-sp-micah-gave-you-5-bug.mp3,Look! Micah gave you five bugs!
+distcomplete-sp,distcomplete-sp-micah-gave-you-9-candy.mp3,Look! Micah gave you nine candies!
+distcomplete-sp,distcomplete-sp-micah-gave-you-9-bug.mp3,Look! Micah gave you nine bugs!
+emotion-sp,emotion-sp-micah.mp3,"How do you feel about what Micah gave you? Remember, you can pick as many feelings as you want!"
+valence-sp,valence-sp-micah.mp3,How happy or unhappy do you feel about what Micah gave you?
+arousal-sp,arousal-sp-micah.mp3,How sleepy or awake do you feel about what Micah gave you?
+trialstart-sp,trialstart-sp-taylor-candy.mp3,Here are Taylor and you! Taylor's backpack has 10 candies inside and you have none!
+distprompt-sp,distprompt-sp-taylor-candy.mp3,Let's see how many candies Taylor gives to you!
+trialstart-sp,trialstart-sp-taylor-bug.mp3,Here are Taylor and you! Taylor's backpack has 10 bugs inside and you have none!
+distprompt-sp,distprompt-sp-taylor-bug.mp3,Let's see how many bugs Taylor gives to you!
+distcomplete-sp,distcomplete-sp-taylor-gave-you-1-candy.mp3,Look! Taylor gave you one candy!
+distcomplete-sp,distcomplete-sp-taylor-gave-you-1-bug.mp3,Look! Taylor gave you one bug!
+distcomplete-sp,distcomplete-sp-taylor-gave-you-5-candy.mp3,Look! Taylor gave you five candies!
+distcomplete-sp,distcomplete-sp-taylor-gave-you-5-bug.mp3,Look! Taylor gave you five bugs!
+distcomplete-sp,distcomplete-sp-taylor-gave-you-9-candy.mp3,Look! Taylor gave you nine candies!
+distcomplete-sp,distcomplete-sp-taylor-gave-you-9-bug.mp3,Look! Taylor gave you nine bugs!
+emotion-sp,emotion-sp-taylor.mp3,"How do you feel about what Taylor gave you? Remember, you can pick as many feelings as you want!"
+valence-sp,valence-sp-taylor.mp3,How happy or unhappy do you feel about what Taylor gave you?
+arousal-sp,arousal-sp-taylor.mp3,How sleepy or awake do you feel about what Taylor gave you?
+trialstart-sp,trialstart-sp-cam-candy.mp3,Here are Cam and you! Cam's backpack has 10 candies inside and you have none!
+distprompt-sp,distprompt-sp-cam-candy.mp3,Let's see how many candies Cam gives to you!
+trialstart-sp,trialstart-sp-cam-bug.mp3,Here are Cam and you! Cam's backpack has 10 bugs inside and you have none!
+distprompt-sp,distprompt-sp-cam-bug.mp3,Let's see how many bugs Cam gives to you!
+distcomplete-sp,distcomplete-sp-cam-gave-you-1-candy.mp3,Look! Cam gave you one candy!
+distcomplete-sp,distcomplete-sp-cam-gave-you-1-bug.mp3,Look! Cam gave you one bug!
+distcomplete-sp,distcomplete-sp-cam-gave-you-5-candy.mp3,Look! Cam gave you five candies!
+distcomplete-sp,distcomplete-sp-cam-gave-you-5-bug.mp3,Look! Cam gave you five bugs!
+distcomplete-sp,distcomplete-sp-cam-gave-you-9-candy.mp3,Look! Cam gave you nine candies!
+distcomplete-sp,distcomplete-sp-cam-gave-you-9-bug.mp3,Look! Cam gave you nine bugs!
+emotion-sp,emotion-sp-cam.mp3,"How do you feel about what Cam gave you? Remember, you can pick as many feelings as you want!"
+valence-sp,valence-sp-cam.mp3,How happy or unhappy do you feel about what Cam gave you?
+arousal-sp,arousal-sp-cam.mp3,How sleepy or awake do you feel about what Cam gave you?
+trialstart-tp,trialstart-tp-charlie-jordan-candy.mp3,Here are Charlie and Jordan! Charlie's backpack has 10 candies inside and Jordan has none!
+distprompt-tp,distprompt-tp-charlie-jordan-candy.mp3,Let's see how many candies Charlie gives to Jordan!
+trialstart-tp,trialstart-tp-charlie-jordan-bug.mp3,Here are Charlie and Jordan! Charlie's backpack has 10 bugs inside and Jordan has none!
+distprompt-tp,distprompt-tp-charlie-jordan-bug.mp3,Let's see how many bugs Charlie gives to Jordan!
+distcomplete-tp,distcomplete-tp-charlie-jordan-gave-1-candy.mp3,Look! Charlie gave Jordan one candy!
+distcomplete-tp,distcomplete-tp-charlie-jordan-gave-1-bug.mp3,Look! Charlie gave Jordan one bug!
+distcomplete-tp,distcomplete-tp-charlie-jordan-gave-5-candy.mp3,Look! Charlie gave Jordan five candies!
+distcomplete-tp,distcomplete-tp-charlie-jordan-gave-5-bug.mp3,Look! Charlie gave Jordan five bugs!
+distcomplete-tp,distcomplete-tp-charlie-jordan-gave-9-candy.mp3,Look! Charlie gave Jordan nine candies!
+distcomplete-tp,distcomplete-tp-charlie-jordan-gave-9-bug.mp3,Look! Charlie gave Jordan nine bugs!
+trialstart-tp,trialstart-tp-charlie-skyler-candy.mp3,Here are Charlie and Skyler! Charlie's backpack has 10 candies inside and Skyler has none!
+distprompt-tp,distprompt-tp-charlie-skyler-candy.mp3,Let's see how many candies Charlie gives to Skyler!
+trialstart-tp,trialstart-tp-charlie-skyler-bug.mp3,Here are Charlie and Skyler! Charlie's backpack has 10 bugs inside and Skyler has none!
+distprompt-tp,distprompt-tp-charlie-skyler-bug.mp3,Let's see how many bugs Charlie gives to Skyler!
+distcomplete-tp,distcomplete-tp-charlie-skyler-gave-1-candy.mp3,Look! Charlie gave Skyler one candy!
+distcomplete-tp,distcomplete-tp-charlie-skyler-gave-1-bug.mp3,Look! Charlie gave Skyler one bug!
+distcomplete-tp,distcomplete-tp-charlie-skyler-gave-5-candy.mp3,Look! Charlie gave Skyler five candies!
+distcomplete-tp,distcomplete-tp-charlie-skyler-gave-5-bug.mp3,Look! Charlie gave Skyler five bugs!
+distcomplete-tp,distcomplete-tp-charlie-skyler-gave-9-candy.mp3,Look! Charlie gave Skyler nine candies!
+distcomplete-tp,distcomplete-tp-charlie-skyler-gave-9-bug.mp3,Look! Charlie gave Skyler nine bugs!
+trialstart-tp,trialstart-tp-charlie-mackenzie-candy.mp3,Here are Charlie and Mackenzie! Charlie's backpack has 10 candies inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-charlie-mackenzie-candy.mp3,Let's see how many candies Charlie gives to Mackenzie!
+trialstart-tp,trialstart-tp-charlie-mackenzie-bug.mp3,Here are Charlie and Mackenzie! Charlie's backpack has 10 bugs inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-charlie-mackenzie-bug.mp3,Let's see how many bugs Charlie gives to Mackenzie!
+distcomplete-tp,distcomplete-tp-charlie-mackenzie-gave-1-candy.mp3,Look! Charlie gave Mackenzie one candy!
+distcomplete-tp,distcomplete-tp-charlie-mackenzie-gave-1-bug.mp3,Look! Charlie gave Mackenzie one bug!
+distcomplete-tp,distcomplete-tp-charlie-mackenzie-gave-5-candy.mp3,Look! Charlie gave Mackenzie five candies!
+distcomplete-tp,distcomplete-tp-charlie-mackenzie-gave-5-bug.mp3,Look! Charlie gave Mackenzie five bugs!
+distcomplete-tp,distcomplete-tp-charlie-mackenzie-gave-9-candy.mp3,Look! Charlie gave Mackenzie nine candies!
+distcomplete-tp,distcomplete-tp-charlie-mackenzie-gave-9-bug.mp3,Look! Charlie gave Mackenzie nine bugs!
+trialstart-tp,trialstart-tp-charlie-casey-candy.mp3,Here are Charlie and Casey! Charlie's backpack has 10 candies inside and Casey has none!
+distprompt-tp,distprompt-tp-charlie-casey-candy.mp3,Let's see how many candies Charlie gives to Casey!
+trialstart-tp,trialstart-tp-charlie-casey-bug.mp3,Here are Charlie and Casey! Charlie's backpack has 10 bugs inside and Casey has none!
+distprompt-tp,distprompt-tp-charlie-casey-bug.mp3,Let's see how many bugs Charlie gives to Casey!
+distcomplete-tp,distcomplete-tp-charlie-casey-gave-1-candy.mp3,Look! Charlie gave Casey one candy!
+distcomplete-tp,distcomplete-tp-charlie-casey-gave-1-bug.mp3,Look! Charlie gave Casey one bug!
+distcomplete-tp,distcomplete-tp-charlie-casey-gave-5-candy.mp3,Look! Charlie gave Casey five candies!
+distcomplete-tp,distcomplete-tp-charlie-casey-gave-5-bug.mp3,Look! Charlie gave Casey five bugs!
+distcomplete-tp,distcomplete-tp-charlie-casey-gave-9-candy.mp3,Look! Charlie gave Casey nine candies!
+distcomplete-tp,distcomplete-tp-charlie-casey-gave-9-bug.mp3,Look! Charlie gave Casey nine bugs!
+trialstart-tp,trialstart-tp-charlie-shawn-candy.mp3,Here are Charlie and Shawn! Charlie's backpack has 10 candies inside and Shawn has none!
+distprompt-tp,distprompt-tp-charlie-shawn-candy.mp3,Let's see how many candies Charlie gives to Shawn!
+trialstart-tp,trialstart-tp-charlie-shawn-bug.mp3,Here are Charlie and Shawn! Charlie's backpack has 10 bugs inside and Shawn has none!
+distprompt-tp,distprompt-tp-charlie-shawn-bug.mp3,Let's see how many bugs Charlie gives to Shawn!
+distcomplete-tp,distcomplete-tp-charlie-shawn-gave-1-candy.mp3,Look! Charlie gave Shawn one candy!
+distcomplete-tp,distcomplete-tp-charlie-shawn-gave-1-bug.mp3,Look! Charlie gave Shawn one bug!
+distcomplete-tp,distcomplete-tp-charlie-shawn-gave-5-candy.mp3,Look! Charlie gave Shawn five candies!
+distcomplete-tp,distcomplete-tp-charlie-shawn-gave-5-bug.mp3,Look! Charlie gave Shawn five bugs!
+distcomplete-tp,distcomplete-tp-charlie-shawn-gave-9-candy.mp3,Look! Charlie gave Shawn nine candies!
+distcomplete-tp,distcomplete-tp-charlie-shawn-gave-9-bug.mp3,Look! Charlie gave Shawn nine bugs!
+trialstart-tp,trialstart-tp-charlie-drew-candy.mp3,Here are Charlie and Drew! Charlie's backpack has 10 candies inside and Drew has none!
+distprompt-tp,distprompt-tp-charlie-drew-candy.mp3,Let's see how many candies Charlie gives to Drew!
+trialstart-tp,trialstart-tp-charlie-drew-bug.mp3,Here are Charlie and Drew! Charlie's backpack has 10 bugs inside and Drew has none!
+distprompt-tp,distprompt-tp-charlie-drew-bug.mp3,Let's see how many bugs Charlie gives to Drew!
+distcomplete-tp,distcomplete-tp-charlie-drew-gave-1-candy.mp3,Look! Charlie gave Drew one candy!
+distcomplete-tp,distcomplete-tp-charlie-drew-gave-1-bug.mp3,Look! Charlie gave Drew one bug!
+distcomplete-tp,distcomplete-tp-charlie-drew-gave-5-candy.mp3,Look! Charlie gave Drew five candies!
+distcomplete-tp,distcomplete-tp-charlie-drew-gave-5-bug.mp3,Look! Charlie gave Drew five bugs!
+distcomplete-tp,distcomplete-tp-charlie-drew-gave-9-candy.mp3,Look! Charlie gave Drew nine candies!
+distcomplete-tp,distcomplete-tp-charlie-drew-gave-9-bug.mp3,Look! Charlie gave Drew nine bugs!
+trialstart-tp,trialstart-tp-sam-jordan-candy.mp3,Here are Sam and Jordan! Sam's backpack has 10 candies inside and Jordan has none!
+distprompt-tp,distprompt-tp-sam-jordan-candy.mp3,Let's see how many candies Sam gives to Jordan!
+trialstart-tp,trialstart-tp-sam-jordan-bug.mp3,Here are Sam and Jordan! Sam's backpack has 10 bugs inside and Jordan has none!
+distprompt-tp,distprompt-tp-sam-jordan-bug.mp3,Let's see how many bugs Sam gives to Jordan!
+distcomplete-tp,distcomplete-tp-sam-jordan-gave-1-candy.mp3,Look! Sam gave Jordan one candy!
+distcomplete-tp,distcomplete-tp-sam-jordan-gave-1-bug.mp3,Look! Sam gave Jordan one bug!
+distcomplete-tp,distcomplete-tp-sam-jordan-gave-5-candy.mp3,Look! Sam gave Jordan five candies!
+distcomplete-tp,distcomplete-tp-sam-jordan-gave-5-bug.mp3,Look! Sam gave Jordan five bugs!
+distcomplete-tp,distcomplete-tp-sam-jordan-gave-9-candy.mp3,Look! Sam gave Jordan nine candies!
+distcomplete-tp,distcomplete-tp-sam-jordan-gave-9-bug.mp3,Look! Sam gave Jordan nine bugs!
+trialstart-tp,trialstart-tp-sam-skyler-candy.mp3,Here are Sam and Skyler! Sam's backpack has 10 candies inside and Skyler has none!
+distprompt-tp,distprompt-tp-sam-skyler-candy.mp3,Let's see how many candies Sam gives to Skyler!
+trialstart-tp,trialstart-tp-sam-skyler-bug.mp3,Here are Sam and Skyler! Sam's backpack has 10 bugs inside and Skyler has none!
+distprompt-tp,distprompt-tp-sam-skyler-bug.mp3,Let's see how many bugs Sam gives to Skyler!
+distcomplete-tp,distcomplete-tp-sam-skyler-gave-1-candy.mp3,Look! Sam gave Skyler one candy!
+distcomplete-tp,distcomplete-tp-sam-skyler-gave-1-bug.mp3,Look! Sam gave Skyler one bug!
+distcomplete-tp,distcomplete-tp-sam-skyler-gave-5-candy.mp3,Look! Sam gave Skyler five candies!
+distcomplete-tp,distcomplete-tp-sam-skyler-gave-5-bug.mp3,Look! Sam gave Skyler five bugs!
+distcomplete-tp,distcomplete-tp-sam-skyler-gave-9-candy.mp3,Look! Sam gave Skyler nine candies!
+distcomplete-tp,distcomplete-tp-sam-skyler-gave-9-bug.mp3,Look! Sam gave Skyler nine bugs!
+trialstart-tp,trialstart-tp-sam-mackenzie-candy.mp3,Here are Sam and Mackenzie! Sam's backpack has 10 candies inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-sam-mackenzie-candy.mp3,Let's see how many candies Sam gives to Mackenzie!
+trialstart-tp,trialstart-tp-sam-mackenzie-bug.mp3,Here are Sam and Mackenzie! Sam's backpack has 10 bugs inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-sam-mackenzie-bug.mp3,Let's see how many bugs Sam gives to Mackenzie!
+distcomplete-tp,distcomplete-tp-sam-mackenzie-gave-1-candy.mp3,Look! Sam gave Mackenzie one candy!
+distcomplete-tp,distcomplete-tp-sam-mackenzie-gave-1-bug.mp3,Look! Sam gave Mackenzie one bug!
+distcomplete-tp,distcomplete-tp-sam-mackenzie-gave-5-candy.mp3,Look! Sam gave Mackenzie five candies!
+distcomplete-tp,distcomplete-tp-sam-mackenzie-gave-5-bug.mp3,Look! Sam gave Mackenzie five bugs!
+distcomplete-tp,distcomplete-tp-sam-mackenzie-gave-9-candy.mp3,Look! Sam gave Mackenzie nine candies!
+distcomplete-tp,distcomplete-tp-sam-mackenzie-gave-9-bug.mp3,Look! Sam gave Mackenzie nine bugs!
+trialstart-tp,trialstart-tp-sam-casey-candy.mp3,Here are Sam and Casey! Sam's backpack has 10 candies inside and Casey has none!
+distprompt-tp,distprompt-tp-sam-casey-candy.mp3,Let's see how many candies Sam gives to Casey!
+trialstart-tp,trialstart-tp-sam-casey-bug.mp3,Here are Sam and Casey! Sam's backpack has 10 bugs inside and Casey has none!
+distprompt-tp,distprompt-tp-sam-casey-bug.mp3,Let's see how many bugs Sam gives to Casey!
+distcomplete-tp,distcomplete-tp-sam-casey-gave-1-candy.mp3,Look! Sam gave Casey one candy!
+distcomplete-tp,distcomplete-tp-sam-casey-gave-1-bug.mp3,Look! Sam gave Casey one bug!
+distcomplete-tp,distcomplete-tp-sam-casey-gave-5-candy.mp3,Look! Sam gave Casey five candies!
+distcomplete-tp,distcomplete-tp-sam-casey-gave-5-bug.mp3,Look! Sam gave Casey five bugs!
+distcomplete-tp,distcomplete-tp-sam-casey-gave-9-candy.mp3,Look! Sam gave Casey nine candies!
+distcomplete-tp,distcomplete-tp-sam-casey-gave-9-bug.mp3,Look! Sam gave Casey nine bugs!
+trialstart-tp,trialstart-tp-sam-shawn-candy.mp3,Here are Sam and Shawn! Sam's backpack has 10 candies inside and Shawn has none!
+distprompt-tp,distprompt-tp-sam-shawn-candy.mp3,Let's see how many candies Sam gives to Shawn!
+trialstart-tp,trialstart-tp-sam-shawn-bug.mp3,Here are Sam and Shawn! Sam's backpack has 10 bugs inside and Shawn has none!
+distprompt-tp,distprompt-tp-sam-shawn-bug.mp3,Let's see how many bugs Sam gives to Shawn!
+distcomplete-tp,distcomplete-tp-sam-shawn-gave-1-candy.mp3,Look! Sam gave Shawn one candy!
+distcomplete-tp,distcomplete-tp-sam-shawn-gave-1-bug.mp3,Look! Sam gave Shawn one bug!
+distcomplete-tp,distcomplete-tp-sam-shawn-gave-5-candy.mp3,Look! Sam gave Shawn five candies!
+distcomplete-tp,distcomplete-tp-sam-shawn-gave-5-bug.mp3,Look! Sam gave Shawn five bugs!
+distcomplete-tp,distcomplete-tp-sam-shawn-gave-9-candy.mp3,Look! Sam gave Shawn nine candies!
+distcomplete-tp,distcomplete-tp-sam-shawn-gave-9-bug.mp3,Look! Sam gave Shawn nine bugs!
+trialstart-tp,trialstart-tp-sam-drew-candy.mp3,Here are Sam and Drew! Sam's backpack has 10 candies inside and Drew has none!
+distprompt-tp,distprompt-tp-sam-drew-candy.mp3,Let's see how many candies Sam gives to Drew!
+trialstart-tp,trialstart-tp-sam-drew-bug.mp3,Here are Sam and Drew! Sam's backpack has 10 bugs inside and Drew has none!
+distprompt-tp,distprompt-tp-sam-drew-bug.mp3,Let's see how many bugs Sam gives to Drew!
+distcomplete-tp,distcomplete-tp-sam-drew-gave-1-candy.mp3,Look! Sam gave Drew one candy!
+distcomplete-tp,distcomplete-tp-sam-drew-gave-1-bug.mp3,Look! Sam gave Drew one bug!
+distcomplete-tp,distcomplete-tp-sam-drew-gave-5-candy.mp3,Look! Sam gave Drew five candies!
+distcomplete-tp,distcomplete-tp-sam-drew-gave-5-bug.mp3,Look! Sam gave Drew five bugs!
+distcomplete-tp,distcomplete-tp-sam-drew-gave-9-candy.mp3,Look! Sam gave Drew nine candies!
+distcomplete-tp,distcomplete-tp-sam-drew-gave-9-bug.mp3,Look! Sam gave Drew nine bugs!
+trialstart-tp,trialstart-tp-alex-jordan-candy.mp3,Here are Alex and Jordan! Alex's backpack has 10 candies inside and Jordan has none!
+distprompt-tp,distprompt-tp-alex-jordan-candy.mp3,Let's see how many candies Alex gives to Jordan!
+trialstart-tp,trialstart-tp-alex-jordan-bug.mp3,Here are Alex and Jordan! Alex's backpack has 10 bugs inside and Jordan has none!
+distprompt-tp,distprompt-tp-alex-jordan-bug.mp3,Let's see how many bugs Alex gives to Jordan!
+distcomplete-tp,distcomplete-tp-alex-jordan-gave-1-candy.mp3,Look! Alex gave Jordan one candy!
+distcomplete-tp,distcomplete-tp-alex-jordan-gave-1-bug.mp3,Look! Alex gave Jordan one bug!
+distcomplete-tp,distcomplete-tp-alex-jordan-gave-5-candy.mp3,Look! Alex gave Jordan five candies!
+distcomplete-tp,distcomplete-tp-alex-jordan-gave-5-bug.mp3,Look! Alex gave Jordan five bugs!
+distcomplete-tp,distcomplete-tp-alex-jordan-gave-9-candy.mp3,Look! Alex gave Jordan nine candies!
+distcomplete-tp,distcomplete-tp-alex-jordan-gave-9-bug.mp3,Look! Alex gave Jordan nine bugs!
+trialstart-tp,trialstart-tp-alex-skyler-candy.mp3,Here are Alex and Skyler! Alex's backpack has 10 candies inside and Skyler has none!
+distprompt-tp,distprompt-tp-alex-skyler-candy.mp3,Let's see how many candies Alex gives to Skyler!
+trialstart-tp,trialstart-tp-alex-skyler-bug.mp3,Here are Alex and Skyler! Alex's backpack has 10 bugs inside and Skyler has none!
+distprompt-tp,distprompt-tp-alex-skyler-bug.mp3,Let's see how many bugs Alex gives to Skyler!
+distcomplete-tp,distcomplete-tp-alex-skyler-gave-1-candy.mp3,Look! Alex gave Skyler one candy!
+distcomplete-tp,distcomplete-tp-alex-skyler-gave-1-bug.mp3,Look! Alex gave Skyler one bug!
+distcomplete-tp,distcomplete-tp-alex-skyler-gave-5-candy.mp3,Look! Alex gave Skyler five candies!
+distcomplete-tp,distcomplete-tp-alex-skyler-gave-5-bug.mp3,Look! Alex gave Skyler five bugs!
+distcomplete-tp,distcomplete-tp-alex-skyler-gave-9-candy.mp3,Look! Alex gave Skyler nine candies!
+distcomplete-tp,distcomplete-tp-alex-skyler-gave-9-bug.mp3,Look! Alex gave Skyler nine bugs!
+trialstart-tp,trialstart-tp-alex-mackenzie-candy.mp3,Here are Alex and Mackenzie! Alex's backpack has 10 candies inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-alex-mackenzie-candy.mp3,Let's see how many candies Alex gives to Mackenzie!
+trialstart-tp,trialstart-tp-alex-mackenzie-bug.mp3,Here are Alex and Mackenzie! Alex's backpack has 10 bugs inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-alex-mackenzie-bug.mp3,Let's see how many bugs Alex gives to Mackenzie!
+distcomplete-tp,distcomplete-tp-alex-mackenzie-gave-1-candy.mp3,Look! Alex gave Mackenzie one candy!
+distcomplete-tp,distcomplete-tp-alex-mackenzie-gave-1-bug.mp3,Look! Alex gave Mackenzie one bug!
+distcomplete-tp,distcomplete-tp-alex-mackenzie-gave-5-candy.mp3,Look! Alex gave Mackenzie five candies!
+distcomplete-tp,distcomplete-tp-alex-mackenzie-gave-5-bug.mp3,Look! Alex gave Mackenzie five bugs!
+distcomplete-tp,distcomplete-tp-alex-mackenzie-gave-9-candy.mp3,Look! Alex gave Mackenzie nine candies!
+distcomplete-tp,distcomplete-tp-alex-mackenzie-gave-9-bug.mp3,Look! Alex gave Mackenzie nine bugs!
+trialstart-tp,trialstart-tp-alex-casey-candy.mp3,Here are Alex and Casey! Alex's backpack has 10 candies inside and Casey has none!
+distprompt-tp,distprompt-tp-alex-casey-candy.mp3,Let's see how many candies Alex gives to Casey!
+trialstart-tp,trialstart-tp-alex-casey-bug.mp3,Here are Alex and Casey! Alex's backpack has 10 bugs inside and Casey has none!
+distprompt-tp,distprompt-tp-alex-casey-bug.mp3,Let's see how many bugs Alex gives to Casey!
+distcomplete-tp,distcomplete-tp-alex-casey-gave-1-candy.mp3,Look! Alex gave Casey one candy!
+distcomplete-tp,distcomplete-tp-alex-casey-gave-1-bug.mp3,Look! Alex gave Casey one bug!
+distcomplete-tp,distcomplete-tp-alex-casey-gave-5-candy.mp3,Look! Alex gave Casey five candies!
+distcomplete-tp,distcomplete-tp-alex-casey-gave-5-bug.mp3,Look! Alex gave Casey five bugs!
+distcomplete-tp,distcomplete-tp-alex-casey-gave-9-candy.mp3,Look! Alex gave Casey nine candies!
+distcomplete-tp,distcomplete-tp-alex-casey-gave-9-bug.mp3,Look! Alex gave Casey nine bugs!
+trialstart-tp,trialstart-tp-alex-shawn-candy.mp3,Here are Alex and Shawn! Alex's backpack has 10 candies inside and Shawn has none!
+distprompt-tp,distprompt-tp-alex-shawn-candy.mp3,Let's see how many candies Alex gives to Shawn!
+trialstart-tp,trialstart-tp-alex-shawn-bug.mp3,Here are Alex and Shawn! Alex's backpack has 10 bugs inside and Shawn has none!
+distprompt-tp,distprompt-tp-alex-shawn-bug.mp3,Let's see how many bugs Alex gives to Shawn!
+distcomplete-tp,distcomplete-tp-alex-shawn-gave-1-candy.mp3,Look! Alex gave Shawn one candy!
+distcomplete-tp,distcomplete-tp-alex-shawn-gave-1-bug.mp3,Look! Alex gave Shawn one bug!
+distcomplete-tp,distcomplete-tp-alex-shawn-gave-5-candy.mp3,Look! Alex gave Shawn five candies!
+distcomplete-tp,distcomplete-tp-alex-shawn-gave-5-bug.mp3,Look! Alex gave Shawn five bugs!
+distcomplete-tp,distcomplete-tp-alex-shawn-gave-9-candy.mp3,Look! Alex gave Shawn nine candies!
+distcomplete-tp,distcomplete-tp-alex-shawn-gave-9-bug.mp3,Look! Alex gave Shawn nine bugs!
+trialstart-tp,trialstart-tp-alex-drew-candy.mp3,Here are Alex and Drew! Alex's backpack has 10 candies inside and Drew has none!
+distprompt-tp,distprompt-tp-alex-drew-candy.mp3,Let's see how many candies Alex gives to Drew!
+trialstart-tp,trialstart-tp-alex-drew-bug.mp3,Here are Alex and Drew! Alex's backpack has 10 bugs inside and Drew has none!
+distprompt-tp,distprompt-tp-alex-drew-bug.mp3,Let's see how many bugs Alex gives to Drew!
+distcomplete-tp,distcomplete-tp-alex-drew-gave-1-candy.mp3,Look! Alex gave Drew one candy!
+distcomplete-tp,distcomplete-tp-alex-drew-gave-1-bug.mp3,Look! Alex gave Drew one bug!
+distcomplete-tp,distcomplete-tp-alex-drew-gave-5-candy.mp3,Look! Alex gave Drew five candies!
+distcomplete-tp,distcomplete-tp-alex-drew-gave-5-bug.mp3,Look! Alex gave Drew five bugs!
+distcomplete-tp,distcomplete-tp-alex-drew-gave-9-candy.mp3,Look! Alex gave Drew nine candies!
+distcomplete-tp,distcomplete-tp-alex-drew-gave-9-bug.mp3,Look! Alex gave Drew nine bugs!
+trialstart-tp,trialstart-tp-avery-jordan-candy.mp3,Here are Avery and Jordan! Avery's backpack has 10 candies inside and Jordan has none!
+distprompt-tp,distprompt-tp-avery-jordan-candy.mp3,Let's see how many candies Avery gives to Jordan!
+trialstart-tp,trialstart-tp-avery-jordan-bug.mp3,Here are Avery and Jordan! Avery's backpack has 10 bugs inside and Jordan has none!
+distprompt-tp,distprompt-tp-avery-jordan-bug.mp3,Let's see how many bugs Avery gives to Jordan!
+distcomplete-tp,distcomplete-tp-avery-jordan-gave-1-candy.mp3,Look! Avery gave Jordan one candy!
+distcomplete-tp,distcomplete-tp-avery-jordan-gave-1-bug.mp3,Look! Avery gave Jordan one bug!
+distcomplete-tp,distcomplete-tp-avery-jordan-gave-5-candy.mp3,Look! Avery gave Jordan five candies!
+distcomplete-tp,distcomplete-tp-avery-jordan-gave-5-bug.mp3,Look! Avery gave Jordan five bugs!
+distcomplete-tp,distcomplete-tp-avery-jordan-gave-9-candy.mp3,Look! Avery gave Jordan nine candies!
+distcomplete-tp,distcomplete-tp-avery-jordan-gave-9-bug.mp3,Look! Avery gave Jordan nine bugs!
+trialstart-tp,trialstart-tp-avery-skyler-candy.mp3,Here are Avery and Skyler! Avery's backpack has 10 candies inside and Skyler has none!
+distprompt-tp,distprompt-tp-avery-skyler-candy.mp3,Let's see how many candies Avery gives to Skyler!
+trialstart-tp,trialstart-tp-avery-skyler-bug.mp3,Here are Avery and Skyler! Avery's backpack has 10 bugs inside and Skyler has none!
+distprompt-tp,distprompt-tp-avery-skyler-bug.mp3,Let's see how many bugs Avery gives to Skyler!
+distcomplete-tp,distcomplete-tp-avery-skyler-gave-1-candy.mp3,Look! Avery gave Skyler one candy!
+distcomplete-tp,distcomplete-tp-avery-skyler-gave-1-bug.mp3,Look! Avery gave Skyler one bug!
+distcomplete-tp,distcomplete-tp-avery-skyler-gave-5-candy.mp3,Look! Avery gave Skyler five candies!
+distcomplete-tp,distcomplete-tp-avery-skyler-gave-5-bug.mp3,Look! Avery gave Skyler five bugs!
+distcomplete-tp,distcomplete-tp-avery-skyler-gave-9-candy.mp3,Look! Avery gave Skyler nine candies!
+distcomplete-tp,distcomplete-tp-avery-skyler-gave-9-bug.mp3,Look! Avery gave Skyler nine bugs!
+trialstart-tp,trialstart-tp-avery-mackenzie-candy.mp3,Here are Avery and Mackenzie! Avery's backpack has 10 candies inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-avery-mackenzie-candy.mp3,Let's see how many candies Avery gives to Mackenzie!
+trialstart-tp,trialstart-tp-avery-mackenzie-bug.mp3,Here are Avery and Mackenzie! Avery's backpack has 10 bugs inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-avery-mackenzie-bug.mp3,Let's see how many bugs Avery gives to Mackenzie!
+distcomplete-tp,distcomplete-tp-avery-mackenzie-gave-1-candy.mp3,Look! Avery gave Mackenzie one candy!
+distcomplete-tp,distcomplete-tp-avery-mackenzie-gave-1-bug.mp3,Look! Avery gave Mackenzie one bug!
+distcomplete-tp,distcomplete-tp-avery-mackenzie-gave-5-candy.mp3,Look! Avery gave Mackenzie five candies!
+distcomplete-tp,distcomplete-tp-avery-mackenzie-gave-5-bug.mp3,Look! Avery gave Mackenzie five bugs!
+distcomplete-tp,distcomplete-tp-avery-mackenzie-gave-9-candy.mp3,Look! Avery gave Mackenzie nine candies!
+distcomplete-tp,distcomplete-tp-avery-mackenzie-gave-9-bug.mp3,Look! Avery gave Mackenzie nine bugs!
+trialstart-tp,trialstart-tp-avery-casey-candy.mp3,Here are Avery and Casey! Avery's backpack has 10 candies inside and Casey has none!
+distprompt-tp,distprompt-tp-avery-casey-candy.mp3,Let's see how many candies Avery gives to Casey!
+trialstart-tp,trialstart-tp-avery-casey-bug.mp3,Here are Avery and Casey! Avery's backpack has 10 bugs inside and Casey has none!
+distprompt-tp,distprompt-tp-avery-casey-bug.mp3,Let's see how many bugs Avery gives to Casey!
+distcomplete-tp,distcomplete-tp-avery-casey-gave-1-candy.mp3,Look! Avery gave Casey one candy!
+distcomplete-tp,distcomplete-tp-avery-casey-gave-1-bug.mp3,Look! Avery gave Casey one bug!
+distcomplete-tp,distcomplete-tp-avery-casey-gave-5-candy.mp3,Look! Avery gave Casey five candies!
+distcomplete-tp,distcomplete-tp-avery-casey-gave-5-bug.mp3,Look! Avery gave Casey five bugs!
+distcomplete-tp,distcomplete-tp-avery-casey-gave-9-candy.mp3,Look! Avery gave Casey nine candies!
+distcomplete-tp,distcomplete-tp-avery-casey-gave-9-bug.mp3,Look! Avery gave Casey nine bugs!
+trialstart-tp,trialstart-tp-avery-shawn-candy.mp3,Here are Avery and Shawn! Avery's backpack has 10 candies inside and Shawn has none!
+distprompt-tp,distprompt-tp-avery-shawn-candy.mp3,Let's see how many candies Avery gives to Shawn!
+trialstart-tp,trialstart-tp-avery-shawn-bug.mp3,Here are Avery and Shawn! Avery's backpack has 10 bugs inside and Shawn has none!
+distprompt-tp,distprompt-tp-avery-shawn-bug.mp3,Let's see how many bugs Avery gives to Shawn!
+distcomplete-tp,distcomplete-tp-avery-shawn-gave-1-candy.mp3,Look! Avery gave Shawn one candy!
+distcomplete-tp,distcomplete-tp-avery-shawn-gave-1-bug.mp3,Look! Avery gave Shawn one bug!
+distcomplete-tp,distcomplete-tp-avery-shawn-gave-5-candy.mp3,Look! Avery gave Shawn five candies!
+distcomplete-tp,distcomplete-tp-avery-shawn-gave-5-bug.mp3,Look! Avery gave Shawn five bugs!
+distcomplete-tp,distcomplete-tp-avery-shawn-gave-9-candy.mp3,Look! Avery gave Shawn nine candies!
+distcomplete-tp,distcomplete-tp-avery-shawn-gave-9-bug.mp3,Look! Avery gave Shawn nine bugs!
+trialstart-tp,trialstart-tp-avery-drew-candy.mp3,Here are Avery and Drew! Avery's backpack has 10 candies inside and Drew has none!
+distprompt-tp,distprompt-tp-avery-drew-candy.mp3,Let's see how many candies Avery gives to Drew!
+trialstart-tp,trialstart-tp-avery-drew-bug.mp3,Here are Avery and Drew! Avery's backpack has 10 bugs inside and Drew has none!
+distprompt-tp,distprompt-tp-avery-drew-bug.mp3,Let's see how many bugs Avery gives to Drew!
+distcomplete-tp,distcomplete-tp-avery-drew-gave-1-candy.mp3,Look! Avery gave Drew one candy!
+distcomplete-tp,distcomplete-tp-avery-drew-gave-1-bug.mp3,Look! Avery gave Drew one bug!
+distcomplete-tp,distcomplete-tp-avery-drew-gave-5-candy.mp3,Look! Avery gave Drew five candies!
+distcomplete-tp,distcomplete-tp-avery-drew-gave-5-bug.mp3,Look! Avery gave Drew five bugs!
+distcomplete-tp,distcomplete-tp-avery-drew-gave-9-candy.mp3,Look! Avery gave Drew nine candies!
+distcomplete-tp,distcomplete-tp-avery-drew-gave-9-bug.mp3,Look! Avery gave Drew nine bugs!
+trialstart-tp,trialstart-tp-riley-jordan-candy.mp3,Here are Riley and Jordan! Riley's backpack has 10 candies inside and Jordan has none!
+distprompt-tp,distprompt-tp-riley-jordan-candy.mp3,Let's see how many candies Riley gives to Jordan!
+trialstart-tp,trialstart-tp-riley-jordan-bug.mp3,Here are Riley and Jordan! Riley's backpack has 10 bugs inside and Jordan has none!
+distprompt-tp,distprompt-tp-riley-jordan-bug.mp3,Let's see how many bugs Riley gives to Jordan!
+distcomplete-tp,distcomplete-tp-riley-jordan-gave-1-candy.mp3,Look! Riley gave Jordan one candy!
+distcomplete-tp,distcomplete-tp-riley-jordan-gave-1-bug.mp3,Look! Riley gave Jordan one bug!
+distcomplete-tp,distcomplete-tp-riley-jordan-gave-5-candy.mp3,Look! Riley gave Jordan five candies!
+distcomplete-tp,distcomplete-tp-riley-jordan-gave-5-bug.mp3,Look! Riley gave Jordan five bugs!
+distcomplete-tp,distcomplete-tp-riley-jordan-gave-9-candy.mp3,Look! Riley gave Jordan nine candies!
+distcomplete-tp,distcomplete-tp-riley-jordan-gave-9-bug.mp3,Look! Riley gave Jordan nine bugs!
+trialstart-tp,trialstart-tp-riley-skyler-candy.mp3,Here are Riley and Skyler! Riley's backpack has 10 candies inside and Skyler has none!
+distprompt-tp,distprompt-tp-riley-skyler-candy.mp3,Let's see how many candies Riley gives to Skyler!
+trialstart-tp,trialstart-tp-riley-skyler-bug.mp3,Here are Riley and Skyler! Riley's backpack has 10 bugs inside and Skyler has none!
+distprompt-tp,distprompt-tp-riley-skyler-bug.mp3,Let's see how many bugs Riley gives to Skyler!
+distcomplete-tp,distcomplete-tp-riley-skyler-gave-1-candy.mp3,Look! Riley gave Skyler one candy!
+distcomplete-tp,distcomplete-tp-riley-skyler-gave-1-bug.mp3,Look! Riley gave Skyler one bug!
+distcomplete-tp,distcomplete-tp-riley-skyler-gave-5-candy.mp3,Look! Riley gave Skyler five candies!
+distcomplete-tp,distcomplete-tp-riley-skyler-gave-5-bug.mp3,Look! Riley gave Skyler five bugs!
+distcomplete-tp,distcomplete-tp-riley-skyler-gave-9-candy.mp3,Look! Riley gave Skyler nine candies!
+distcomplete-tp,distcomplete-tp-riley-skyler-gave-9-bug.mp3,Look! Riley gave Skyler nine bugs!
+trialstart-tp,trialstart-tp-riley-mackenzie-candy.mp3,Here are Riley and Mackenzie! Riley's backpack has 10 candies inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-riley-mackenzie-candy.mp3,Let's see how many candies Riley gives to Mackenzie!
+trialstart-tp,trialstart-tp-riley-mackenzie-bug.mp3,Here are Riley and Mackenzie! Riley's backpack has 10 bugs inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-riley-mackenzie-bug.mp3,Let's see how many bugs Riley gives to Mackenzie!
+distcomplete-tp,distcomplete-tp-riley-mackenzie-gave-1-candy.mp3,Look! Riley gave Mackenzie one candy!
+distcomplete-tp,distcomplete-tp-riley-mackenzie-gave-1-bug.mp3,Look! Riley gave Mackenzie one bug!
+distcomplete-tp,distcomplete-tp-riley-mackenzie-gave-5-candy.mp3,Look! Riley gave Mackenzie five candies!
+distcomplete-tp,distcomplete-tp-riley-mackenzie-gave-5-bug.mp3,Look! Riley gave Mackenzie five bugs!
+distcomplete-tp,distcomplete-tp-riley-mackenzie-gave-9-candy.mp3,Look! Riley gave Mackenzie nine candies!
+distcomplete-tp,distcomplete-tp-riley-mackenzie-gave-9-bug.mp3,Look! Riley gave Mackenzie nine bugs!
+trialstart-tp,trialstart-tp-riley-casey-candy.mp3,Here are Riley and Casey! Riley's backpack has 10 candies inside and Casey has none!
+distprompt-tp,distprompt-tp-riley-casey-candy.mp3,Let's see how many candies Riley gives to Casey!
+trialstart-tp,trialstart-tp-riley-casey-bug.mp3,Here are Riley and Casey! Riley's backpack has 10 bugs inside and Casey has none!
+distprompt-tp,distprompt-tp-riley-casey-bug.mp3,Let's see how many bugs Riley gives to Casey!
+distcomplete-tp,distcomplete-tp-riley-casey-gave-1-candy.mp3,Look! Riley gave Casey one candy!
+distcomplete-tp,distcomplete-tp-riley-casey-gave-1-bug.mp3,Look! Riley gave Casey one bug!
+distcomplete-tp,distcomplete-tp-riley-casey-gave-5-candy.mp3,Look! Riley gave Casey five candies!
+distcomplete-tp,distcomplete-tp-riley-casey-gave-5-bug.mp3,Look! Riley gave Casey five bugs!
+distcomplete-tp,distcomplete-tp-riley-casey-gave-9-candy.mp3,Look! Riley gave Casey nine candies!
+distcomplete-tp,distcomplete-tp-riley-casey-gave-9-bug.mp3,Look! Riley gave Casey nine bugs!
+trialstart-tp,trialstart-tp-riley-shawn-candy.mp3,Here are Riley and Shawn! Riley's backpack has 10 candies inside and Shawn has none!
+distprompt-tp,distprompt-tp-riley-shawn-candy.mp3,Let's see how many candies Riley gives to Shawn!
+trialstart-tp,trialstart-tp-riley-shawn-bug.mp3,Here are Riley and Shawn! Riley's backpack has 10 bugs inside and Shawn has none!
+distprompt-tp,distprompt-tp-riley-shawn-bug.mp3,Let's see how many bugs Riley gives to Shawn!
+distcomplete-tp,distcomplete-tp-riley-shawn-gave-1-candy.mp3,Look! Riley gave Shawn one candy!
+distcomplete-tp,distcomplete-tp-riley-shawn-gave-1-bug.mp3,Look! Riley gave Shawn one bug!
+distcomplete-tp,distcomplete-tp-riley-shawn-gave-5-candy.mp3,Look! Riley gave Shawn five candies!
+distcomplete-tp,distcomplete-tp-riley-shawn-gave-5-bug.mp3,Look! Riley gave Shawn five bugs!
+distcomplete-tp,distcomplete-tp-riley-shawn-gave-9-candy.mp3,Look! Riley gave Shawn nine candies!
+distcomplete-tp,distcomplete-tp-riley-shawn-gave-9-bug.mp3,Look! Riley gave Shawn nine bugs!
+trialstart-tp,trialstart-tp-riley-drew-candy.mp3,Here are Riley and Drew! Riley's backpack has 10 candies inside and Drew has none!
+distprompt-tp,distprompt-tp-riley-drew-candy.mp3,Let's see how many candies Riley gives to Drew!
+trialstart-tp,trialstart-tp-riley-drew-bug.mp3,Here are Riley and Drew! Riley's backpack has 10 bugs inside and Drew has none!
+distprompt-tp,distprompt-tp-riley-drew-bug.mp3,Let's see how many bugs Riley gives to Drew!
+distcomplete-tp,distcomplete-tp-riley-drew-gave-1-candy.mp3,Look! Riley gave Drew one candy!
+distcomplete-tp,distcomplete-tp-riley-drew-gave-1-bug.mp3,Look! Riley gave Drew one bug!
+distcomplete-tp,distcomplete-tp-riley-drew-gave-5-candy.mp3,Look! Riley gave Drew five candies!
+distcomplete-tp,distcomplete-tp-riley-drew-gave-5-bug.mp3,Look! Riley gave Drew five bugs!
+distcomplete-tp,distcomplete-tp-riley-drew-gave-9-candy.mp3,Look! Riley gave Drew nine candies!
+distcomplete-tp,distcomplete-tp-riley-drew-gave-9-bug.mp3,Look! Riley gave Drew nine bugs!
+trialstart-tp,trialstart-tp-blake-jordan-candy.mp3,Here are Blake and Jordan! Blake's backpack has 10 candies inside and Jordan has none!
+distprompt-tp,distprompt-tp-blake-jordan-candy.mp3,Let's see how many candies Blake gives to Jordan!
+trialstart-tp,trialstart-tp-blake-jordan-bug.mp3,Here are Blake and Jordan! Blake's backpack has 10 bugs inside and Jordan has none!
+distprompt-tp,distprompt-tp-blake-jordan-bug.mp3,Let's see how many bugs Blake gives to Jordan!
+distcomplete-tp,distcomplete-tp-blake-jordan-gave-1-candy.mp3,Look! Blake gave Jordan one candy!
+distcomplete-tp,distcomplete-tp-blake-jordan-gave-1-bug.mp3,Look! Blake gave Jordan one bug!
+distcomplete-tp,distcomplete-tp-blake-jordan-gave-5-candy.mp3,Look! Blake gave Jordan five candies!
+distcomplete-tp,distcomplete-tp-blake-jordan-gave-5-bug.mp3,Look! Blake gave Jordan five bugs!
+distcomplete-tp,distcomplete-tp-blake-jordan-gave-9-candy.mp3,Look! Blake gave Jordan nine candies!
+distcomplete-tp,distcomplete-tp-blake-jordan-gave-9-bug.mp3,Look! Blake gave Jordan nine bugs!
+trialstart-tp,trialstart-tp-blake-skyler-candy.mp3,Here are Blake and Skyler! Blake's backpack has 10 candies inside and Skyler has none!
+distprompt-tp,distprompt-tp-blake-skyler-candy.mp3,Let's see how many candies Blake gives to Skyler!
+trialstart-tp,trialstart-tp-blake-skyler-bug.mp3,Here are Blake and Skyler! Blake's backpack has 10 bugs inside and Skyler has none!
+distprompt-tp,distprompt-tp-blake-skyler-bug.mp3,Let's see how many bugs Blake gives to Skyler!
+distcomplete-tp,distcomplete-tp-blake-skyler-gave-1-candy.mp3,Look! Blake gave Skyler one candy!
+distcomplete-tp,distcomplete-tp-blake-skyler-gave-1-bug.mp3,Look! Blake gave Skyler one bug!
+distcomplete-tp,distcomplete-tp-blake-skyler-gave-5-candy.mp3,Look! Blake gave Skyler five candies!
+distcomplete-tp,distcomplete-tp-blake-skyler-gave-5-bug.mp3,Look! Blake gave Skyler five bugs!
+distcomplete-tp,distcomplete-tp-blake-skyler-gave-9-candy.mp3,Look! Blake gave Skyler nine candies!
+distcomplete-tp,distcomplete-tp-blake-skyler-gave-9-bug.mp3,Look! Blake gave Skyler nine bugs!
+trialstart-tp,trialstart-tp-blake-mackenzie-candy.mp3,Here are Blake and Mackenzie! Blake's backpack has 10 candies inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-blake-mackenzie-candy.mp3,Let's see how many candies Blake gives to Mackenzie!
+trialstart-tp,trialstart-tp-blake-mackenzie-bug.mp3,Here are Blake and Mackenzie! Blake's backpack has 10 bugs inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-blake-mackenzie-bug.mp3,Let's see how many bugs Blake gives to Mackenzie!
+distcomplete-tp,distcomplete-tp-blake-mackenzie-gave-1-candy.mp3,Look! Blake gave Mackenzie one candy!
+distcomplete-tp,distcomplete-tp-blake-mackenzie-gave-1-bug.mp3,Look! Blake gave Mackenzie one bug!
+distcomplete-tp,distcomplete-tp-blake-mackenzie-gave-5-candy.mp3,Look! Blake gave Mackenzie five candies!
+distcomplete-tp,distcomplete-tp-blake-mackenzie-gave-5-bug.mp3,Look! Blake gave Mackenzie five bugs!
+distcomplete-tp,distcomplete-tp-blake-mackenzie-gave-9-candy.mp3,Look! Blake gave Mackenzie nine candies!
+distcomplete-tp,distcomplete-tp-blake-mackenzie-gave-9-bug.mp3,Look! Blake gave Mackenzie nine bugs!
+trialstart-tp,trialstart-tp-blake-casey-candy.mp3,Here are Blake and Casey! Blake's backpack has 10 candies inside and Casey has none!
+distprompt-tp,distprompt-tp-blake-casey-candy.mp3,Let's see how many candies Blake gives to Casey!
+trialstart-tp,trialstart-tp-blake-casey-bug.mp3,Here are Blake and Casey! Blake's backpack has 10 bugs inside and Casey has none!
+distprompt-tp,distprompt-tp-blake-casey-bug.mp3,Let's see how many bugs Blake gives to Casey!
+distcomplete-tp,distcomplete-tp-blake-casey-gave-1-candy.mp3,Look! Blake gave Casey one candy!
+distcomplete-tp,distcomplete-tp-blake-casey-gave-1-bug.mp3,Look! Blake gave Casey one bug!
+distcomplete-tp,distcomplete-tp-blake-casey-gave-5-candy.mp3,Look! Blake gave Casey five candies!
+distcomplete-tp,distcomplete-tp-blake-casey-gave-5-bug.mp3,Look! Blake gave Casey five bugs!
+distcomplete-tp,distcomplete-tp-blake-casey-gave-9-candy.mp3,Look! Blake gave Casey nine candies!
+distcomplete-tp,distcomplete-tp-blake-casey-gave-9-bug.mp3,Look! Blake gave Casey nine bugs!
+trialstart-tp,trialstart-tp-blake-shawn-candy.mp3,Here are Blake and Shawn! Blake's backpack has 10 candies inside and Shawn has none!
+distprompt-tp,distprompt-tp-blake-shawn-candy.mp3,Let's see how many candies Blake gives to Shawn!
+trialstart-tp,trialstart-tp-blake-shawn-bug.mp3,Here are Blake and Shawn! Blake's backpack has 10 bugs inside and Shawn has none!
+distprompt-tp,distprompt-tp-blake-shawn-bug.mp3,Let's see how many bugs Blake gives to Shawn!
+distcomplete-tp,distcomplete-tp-blake-shawn-gave-1-candy.mp3,Look! Blake gave Shawn one candy!
+distcomplete-tp,distcomplete-tp-blake-shawn-gave-1-bug.mp3,Look! Blake gave Shawn one bug!
+distcomplete-tp,distcomplete-tp-blake-shawn-gave-5-candy.mp3,Look! Blake gave Shawn five candies!
+distcomplete-tp,distcomplete-tp-blake-shawn-gave-5-bug.mp3,Look! Blake gave Shawn five bugs!
+distcomplete-tp,distcomplete-tp-blake-shawn-gave-9-candy.mp3,Look! Blake gave Shawn nine candies!
+distcomplete-tp,distcomplete-tp-blake-shawn-gave-9-bug.mp3,Look! Blake gave Shawn nine bugs!
+trialstart-tp,trialstart-tp-blake-drew-candy.mp3,Here are Blake and Drew! Blake's backpack has 10 candies inside and Drew has none!
+distprompt-tp,distprompt-tp-blake-drew-candy.mp3,Let's see how many candies Blake gives to Drew!
+trialstart-tp,trialstart-tp-blake-drew-bug.mp3,Here are Blake and Drew! Blake's backpack has 10 bugs inside and Drew has none!
+distprompt-tp,distprompt-tp-blake-drew-bug.mp3,Let's see how many bugs Blake gives to Drew!
+distcomplete-tp,distcomplete-tp-blake-drew-gave-1-candy.mp3,Look! Blake gave Drew one candy!
+distcomplete-tp,distcomplete-tp-blake-drew-gave-1-bug.mp3,Look! Blake gave Drew one bug!
+distcomplete-tp,distcomplete-tp-blake-drew-gave-5-candy.mp3,Look! Blake gave Drew five candies!
+distcomplete-tp,distcomplete-tp-blake-drew-gave-5-bug.mp3,Look! Blake gave Drew five bugs!
+distcomplete-tp,distcomplete-tp-blake-drew-gave-9-candy.mp3,Look! Blake gave Drew nine candies!
+distcomplete-tp,distcomplete-tp-blake-drew-gave-9-bug.mp3,Look! Blake gave Drew nine bugs!
+trialstart-tp,trialstart-tp-jamie-jordan-candy.mp3,Here are Jamie and Jordan! Jamie's backpack has 10 candies inside and Jordan has none!
+distprompt-tp,distprompt-tp-jamie-jordan-candy.mp3,Let's see how many candies Jamie gives to Jordan!
+trialstart-tp,trialstart-tp-jamie-jordan-bug.mp3,Here are Jamie and Jordan! Jamie's backpack has 10 bugs inside and Jordan has none!
+distprompt-tp,distprompt-tp-jamie-jordan-bug.mp3,Let's see how many bugs Jamie gives to Jordan!
+distcomplete-tp,distcomplete-tp-jamie-jordan-gave-1-candy.mp3,Look! Jamie gave Jordan one candy!
+distcomplete-tp,distcomplete-tp-jamie-jordan-gave-1-bug.mp3,Look! Jamie gave Jordan one bug!
+distcomplete-tp,distcomplete-tp-jamie-jordan-gave-5-candy.mp3,Look! Jamie gave Jordan five candies!
+distcomplete-tp,distcomplete-tp-jamie-jordan-gave-5-bug.mp3,Look! Jamie gave Jordan five bugs!
+distcomplete-tp,distcomplete-tp-jamie-jordan-gave-9-candy.mp3,Look! Jamie gave Jordan nine candies!
+distcomplete-tp,distcomplete-tp-jamie-jordan-gave-9-bug.mp3,Look! Jamie gave Jordan nine bugs!
+trialstart-tp,trialstart-tp-jamie-skyler-candy.mp3,Here are Jamie and Skyler! Jamie's backpack has 10 candies inside and Skyler has none!
+distprompt-tp,distprompt-tp-jamie-skyler-candy.mp3,Let's see how many candies Jamie gives to Skyler!
+trialstart-tp,trialstart-tp-jamie-skyler-bug.mp3,Here are Jamie and Skyler! Jamie's backpack has 10 bugs inside and Skyler has none!
+distprompt-tp,distprompt-tp-jamie-skyler-bug.mp3,Let's see how many bugs Jamie gives to Skyler!
+distcomplete-tp,distcomplete-tp-jamie-skyler-gave-1-candy.mp3,Look! Jamie gave Skyler one candy!
+distcomplete-tp,distcomplete-tp-jamie-skyler-gave-1-bug.mp3,Look! Jamie gave Skyler one bug!
+distcomplete-tp,distcomplete-tp-jamie-skyler-gave-5-candy.mp3,Look! Jamie gave Skyler five candies!
+distcomplete-tp,distcomplete-tp-jamie-skyler-gave-5-bug.mp3,Look! Jamie gave Skyler five bugs!
+distcomplete-tp,distcomplete-tp-jamie-skyler-gave-9-candy.mp3,Look! Jamie gave Skyler nine candies!
+distcomplete-tp,distcomplete-tp-jamie-skyler-gave-9-bug.mp3,Look! Jamie gave Skyler nine bugs!
+trialstart-tp,trialstart-tp-jamie-mackenzie-candy.mp3,Here are Jamie and Mackenzie! Jamie's backpack has 10 candies inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-jamie-mackenzie-candy.mp3,Let's see how many candies Jamie gives to Mackenzie!
+trialstart-tp,trialstart-tp-jamie-mackenzie-bug.mp3,Here are Jamie and Mackenzie! Jamie's backpack has 10 bugs inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-jamie-mackenzie-bug.mp3,Let's see how many bugs Jamie gives to Mackenzie!
+distcomplete-tp,distcomplete-tp-jamie-mackenzie-gave-1-candy.mp3,Look! Jamie gave Mackenzie one candy!
+distcomplete-tp,distcomplete-tp-jamie-mackenzie-gave-1-bug.mp3,Look! Jamie gave Mackenzie one bug!
+distcomplete-tp,distcomplete-tp-jamie-mackenzie-gave-5-candy.mp3,Look! Jamie gave Mackenzie five candies!
+distcomplete-tp,distcomplete-tp-jamie-mackenzie-gave-5-bug.mp3,Look! Jamie gave Mackenzie five bugs!
+distcomplete-tp,distcomplete-tp-jamie-mackenzie-gave-9-candy.mp3,Look! Jamie gave Mackenzie nine candies!
+distcomplete-tp,distcomplete-tp-jamie-mackenzie-gave-9-bug.mp3,Look! Jamie gave Mackenzie nine bugs!
+trialstart-tp,trialstart-tp-jamie-casey-candy.mp3,Here are Jamie and Casey! Jamie's backpack has 10 candies inside and Casey has none!
+distprompt-tp,distprompt-tp-jamie-casey-candy.mp3,Let's see how many candies Jamie gives to Casey!
+trialstart-tp,trialstart-tp-jamie-casey-bug.mp3,Here are Jamie and Casey! Jamie's backpack has 10 bugs inside and Casey has none!
+distprompt-tp,distprompt-tp-jamie-casey-bug.mp3,Let's see how many bugs Jamie gives to Casey!
+distcomplete-tp,distcomplete-tp-jamie-casey-gave-1-candy.mp3,Look! Jamie gave Casey one candy!
+distcomplete-tp,distcomplete-tp-jamie-casey-gave-1-bug.mp3,Look! Jamie gave Casey one bug!
+distcomplete-tp,distcomplete-tp-jamie-casey-gave-5-candy.mp3,Look! Jamie gave Casey five candies!
+distcomplete-tp,distcomplete-tp-jamie-casey-gave-5-bug.mp3,Look! Jamie gave Casey five bugs!
+distcomplete-tp,distcomplete-tp-jamie-casey-gave-9-candy.mp3,Look! Jamie gave Casey nine candies!
+distcomplete-tp,distcomplete-tp-jamie-casey-gave-9-bug.mp3,Look! Jamie gave Casey nine bugs!
+trialstart-tp,trialstart-tp-jamie-shawn-candy.mp3,Here are Jamie and Shawn! Jamie's backpack has 10 candies inside and Shawn has none!
+distprompt-tp,distprompt-tp-jamie-shawn-candy.mp3,Let's see how many candies Jamie gives to Shawn!
+trialstart-tp,trialstart-tp-jamie-shawn-bug.mp3,Here are Jamie and Shawn! Jamie's backpack has 10 bugs inside and Shawn has none!
+distprompt-tp,distprompt-tp-jamie-shawn-bug.mp3,Let's see how many bugs Jamie gives to Shawn!
+distcomplete-tp,distcomplete-tp-jamie-shawn-gave-1-candy.mp3,Look! Jamie gave Shawn one candy!
+distcomplete-tp,distcomplete-tp-jamie-shawn-gave-1-bug.mp3,Look! Jamie gave Shawn one bug!
+distcomplete-tp,distcomplete-tp-jamie-shawn-gave-5-candy.mp3,Look! Jamie gave Shawn five candies!
+distcomplete-tp,distcomplete-tp-jamie-shawn-gave-5-bug.mp3,Look! Jamie gave Shawn five bugs!
+distcomplete-tp,distcomplete-tp-jamie-shawn-gave-9-candy.mp3,Look! Jamie gave Shawn nine candies!
+distcomplete-tp,distcomplete-tp-jamie-shawn-gave-9-bug.mp3,Look! Jamie gave Shawn nine bugs!
+trialstart-tp,trialstart-tp-jamie-drew-candy.mp3,Here are Jamie and Drew! Jamie's backpack has 10 candies inside and Drew has none!
+distprompt-tp,distprompt-tp-jamie-drew-candy.mp3,Let's see how many candies Jamie gives to Drew!
+trialstart-tp,trialstart-tp-jamie-drew-bug.mp3,Here are Jamie and Drew! Jamie's backpack has 10 bugs inside and Drew has none!
+distprompt-tp,distprompt-tp-jamie-drew-bug.mp3,Let's see how many bugs Jamie gives to Drew!
+distcomplete-tp,distcomplete-tp-jamie-drew-gave-1-candy.mp3,Look! Jamie gave Drew one candy!
+distcomplete-tp,distcomplete-tp-jamie-drew-gave-1-bug.mp3,Look! Jamie gave Drew one bug!
+distcomplete-tp,distcomplete-tp-jamie-drew-gave-5-candy.mp3,Look! Jamie gave Drew five candies!
+distcomplete-tp,distcomplete-tp-jamie-drew-gave-5-bug.mp3,Look! Jamie gave Drew five bugs!
+distcomplete-tp,distcomplete-tp-jamie-drew-gave-9-candy.mp3,Look! Jamie gave Drew nine candies!
+distcomplete-tp,distcomplete-tp-jamie-drew-gave-9-bug.mp3,Look! Jamie gave Drew nine bugs!
+trialstart-tp,trialstart-tp-quinn-jordan-candy.mp3,Here are Quinn and Jordan! Quinn's backpack has 10 candies inside and Jordan has none!
+distprompt-tp,distprompt-tp-quinn-jordan-candy.mp3,Let's see how many candies Quinn gives to Jordan!
+trialstart-tp,trialstart-tp-quinn-jordan-bug.mp3,Here are Quinn and Jordan! Quinn's backpack has 10 bugs inside and Jordan has none!
+distprompt-tp,distprompt-tp-quinn-jordan-bug.mp3,Let's see how many bugs Quinn gives to Jordan!
+distcomplete-tp,distcomplete-tp-quinn-jordan-gave-1-candy.mp3,Look! Quinn gave Jordan one candy!
+distcomplete-tp,distcomplete-tp-quinn-jordan-gave-1-bug.mp3,Look! Quinn gave Jordan one bug!
+distcomplete-tp,distcomplete-tp-quinn-jordan-gave-5-candy.mp3,Look! Quinn gave Jordan five candies!
+distcomplete-tp,distcomplete-tp-quinn-jordan-gave-5-bug.mp3,Look! Quinn gave Jordan five bugs!
+distcomplete-tp,distcomplete-tp-quinn-jordan-gave-9-candy.mp3,Look! Quinn gave Jordan nine candies!
+distcomplete-tp,distcomplete-tp-quinn-jordan-gave-9-bug.mp3,Look! Quinn gave Jordan nine bugs!
+trialstart-tp,trialstart-tp-quinn-skyler-candy.mp3,Here are Quinn and Skyler! Quinn's backpack has 10 candies inside and Skyler has none!
+distprompt-tp,distprompt-tp-quinn-skyler-candy.mp3,Let's see how many candies Quinn gives to Skyler!
+trialstart-tp,trialstart-tp-quinn-skyler-bug.mp3,Here are Quinn and Skyler! Quinn's backpack has 10 bugs inside and Skyler has none!
+distprompt-tp,distprompt-tp-quinn-skyler-bug.mp3,Let's see how many bugs Quinn gives to Skyler!
+distcomplete-tp,distcomplete-tp-quinn-skyler-gave-1-candy.mp3,Look! Quinn gave Skyler one candy!
+distcomplete-tp,distcomplete-tp-quinn-skyler-gave-1-bug.mp3,Look! Quinn gave Skyler one bug!
+distcomplete-tp,distcomplete-tp-quinn-skyler-gave-5-candy.mp3,Look! Quinn gave Skyler five candies!
+distcomplete-tp,distcomplete-tp-quinn-skyler-gave-5-bug.mp3,Look! Quinn gave Skyler five bugs!
+distcomplete-tp,distcomplete-tp-quinn-skyler-gave-9-candy.mp3,Look! Quinn gave Skyler nine candies!
+distcomplete-tp,distcomplete-tp-quinn-skyler-gave-9-bug.mp3,Look! Quinn gave Skyler nine bugs!
+trialstart-tp,trialstart-tp-quinn-mackenzie-candy.mp3,Here are Quinn and Mackenzie! Quinn's backpack has 10 candies inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-quinn-mackenzie-candy.mp3,Let's see how many candies Quinn gives to Mackenzie!
+trialstart-tp,trialstart-tp-quinn-mackenzie-bug.mp3,Here are Quinn and Mackenzie! Quinn's backpack has 10 bugs inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-quinn-mackenzie-bug.mp3,Let's see how many bugs Quinn gives to Mackenzie!
+distcomplete-tp,distcomplete-tp-quinn-mackenzie-gave-1-candy.mp3,Look! Quinn gave Mackenzie one candy!
+distcomplete-tp,distcomplete-tp-quinn-mackenzie-gave-1-bug.mp3,Look! Quinn gave Mackenzie one bug!
+distcomplete-tp,distcomplete-tp-quinn-mackenzie-gave-5-candy.mp3,Look! Quinn gave Mackenzie five candies!
+distcomplete-tp,distcomplete-tp-quinn-mackenzie-gave-5-bug.mp3,Look! Quinn gave Mackenzie five bugs!
+distcomplete-tp,distcomplete-tp-quinn-mackenzie-gave-9-candy.mp3,Look! Quinn gave Mackenzie nine candies!
+distcomplete-tp,distcomplete-tp-quinn-mackenzie-gave-9-bug.mp3,Look! Quinn gave Mackenzie nine bugs!
+trialstart-tp,trialstart-tp-quinn-casey-candy.mp3,Here are Quinn and Casey! Quinn's backpack has 10 candies inside and Casey has none!
+distprompt-tp,distprompt-tp-quinn-casey-candy.mp3,Let's see how many candies Quinn gives to Casey!
+trialstart-tp,trialstart-tp-quinn-casey-bug.mp3,Here are Quinn and Casey! Quinn's backpack has 10 bugs inside and Casey has none!
+distprompt-tp,distprompt-tp-quinn-casey-bug.mp3,Let's see how many bugs Quinn gives to Casey!
+distcomplete-tp,distcomplete-tp-quinn-casey-gave-1-candy.mp3,Look! Quinn gave Casey one candy!
+distcomplete-tp,distcomplete-tp-quinn-casey-gave-1-bug.mp3,Look! Quinn gave Casey one bug!
+distcomplete-tp,distcomplete-tp-quinn-casey-gave-5-candy.mp3,Look! Quinn gave Casey five candies!
+distcomplete-tp,distcomplete-tp-quinn-casey-gave-5-bug.mp3,Look! Quinn gave Casey five bugs!
+distcomplete-tp,distcomplete-tp-quinn-casey-gave-9-candy.mp3,Look! Quinn gave Casey nine candies!
+distcomplete-tp,distcomplete-tp-quinn-casey-gave-9-bug.mp3,Look! Quinn gave Casey nine bugs!
+trialstart-tp,trialstart-tp-quinn-shawn-candy.mp3,Here are Quinn and Shawn! Quinn's backpack has 10 candies inside and Shawn has none!
+distprompt-tp,distprompt-tp-quinn-shawn-candy.mp3,Let's see how many candies Quinn gives to Shawn!
+trialstart-tp,trialstart-tp-quinn-shawn-bug.mp3,Here are Quinn and Shawn! Quinn's backpack has 10 bugs inside and Shawn has none!
+distprompt-tp,distprompt-tp-quinn-shawn-bug.mp3,Let's see how many bugs Quinn gives to Shawn!
+distcomplete-tp,distcomplete-tp-quinn-shawn-gave-1-candy.mp3,Look! Quinn gave Shawn one candy!
+distcomplete-tp,distcomplete-tp-quinn-shawn-gave-1-bug.mp3,Look! Quinn gave Shawn one bug!
+distcomplete-tp,distcomplete-tp-quinn-shawn-gave-5-candy.mp3,Look! Quinn gave Shawn five candies!
+distcomplete-tp,distcomplete-tp-quinn-shawn-gave-5-bug.mp3,Look! Quinn gave Shawn five bugs!
+distcomplete-tp,distcomplete-tp-quinn-shawn-gave-9-candy.mp3,Look! Quinn gave Shawn nine candies!
+distcomplete-tp,distcomplete-tp-quinn-shawn-gave-9-bug.mp3,Look! Quinn gave Shawn nine bugs!
+trialstart-tp,trialstart-tp-quinn-drew-candy.mp3,Here are Quinn and Drew! Quinn's backpack has 10 candies inside and Drew has none!
+distprompt-tp,distprompt-tp-quinn-drew-candy.mp3,Let's see how many candies Quinn gives to Drew!
+trialstart-tp,trialstart-tp-quinn-drew-bug.mp3,Here are Quinn and Drew! Quinn's backpack has 10 bugs inside and Drew has none!
+distprompt-tp,distprompt-tp-quinn-drew-bug.mp3,Let's see how many bugs Quinn gives to Drew!
+distcomplete-tp,distcomplete-tp-quinn-drew-gave-1-candy.mp3,Look! Quinn gave Drew one candy!
+distcomplete-tp,distcomplete-tp-quinn-drew-gave-1-bug.mp3,Look! Quinn gave Drew one bug!
+distcomplete-tp,distcomplete-tp-quinn-drew-gave-5-candy.mp3,Look! Quinn gave Drew five candies!
+distcomplete-tp,distcomplete-tp-quinn-drew-gave-5-bug.mp3,Look! Quinn gave Drew five bugs!
+distcomplete-tp,distcomplete-tp-quinn-drew-gave-9-candy.mp3,Look! Quinn gave Drew nine candies!
+distcomplete-tp,distcomplete-tp-quinn-drew-gave-9-bug.mp3,Look! Quinn gave Drew nine bugs!
+trialstart-tp,trialstart-tp-jessy-jordan-candy.mp3,Here are Jessy and Jordan! Jessy's backpack has 10 candies inside and Jordan has none!
+distprompt-tp,distprompt-tp-jessy-jordan-candy.mp3,Let's see how many candies Jessy gives to Jordan!
+trialstart-tp,trialstart-tp-jessy-jordan-bug.mp3,Here are Jessy and Jordan! Jessy's backpack has 10 bugs inside and Jordan has none!
+distprompt-tp,distprompt-tp-jessy-jordan-bug.mp3,Let's see how many bugs Jessy gives to Jordan!
+distcomplete-tp,distcomplete-tp-jessy-jordan-gave-1-candy.mp3,Look! Jessy gave Jordan one candy!
+distcomplete-tp,distcomplete-tp-jessy-jordan-gave-1-bug.mp3,Look! Jessy gave Jordan one bug!
+distcomplete-tp,distcomplete-tp-jessy-jordan-gave-5-candy.mp3,Look! Jessy gave Jordan five candies!
+distcomplete-tp,distcomplete-tp-jessy-jordan-gave-5-bug.mp3,Look! Jessy gave Jordan five bugs!
+distcomplete-tp,distcomplete-tp-jessy-jordan-gave-9-candy.mp3,Look! Jessy gave Jordan nine candies!
+distcomplete-tp,distcomplete-tp-jessy-jordan-gave-9-bug.mp3,Look! Jessy gave Jordan nine bugs!
+trialstart-tp,trialstart-tp-jessy-skyler-candy.mp3,Here are Jessy and Skyler! Jessy's backpack has 10 candies inside and Skyler has none!
+distprompt-tp,distprompt-tp-jessy-skyler-candy.mp3,Let's see how many candies Jessy gives to Skyler!
+trialstart-tp,trialstart-tp-jessy-skyler-bug.mp3,Here are Jessy and Skyler! Jessy's backpack has 10 bugs inside and Skyler has none!
+distprompt-tp,distprompt-tp-jessy-skyler-bug.mp3,Let's see how many bugs Jessy gives to Skyler!
+distcomplete-tp,distcomplete-tp-jessy-skyler-gave-1-candy.mp3,Look! Jessy gave Skyler one candy!
+distcomplete-tp,distcomplete-tp-jessy-skyler-gave-1-bug.mp3,Look! Jessy gave Skyler one bug!
+distcomplete-tp,distcomplete-tp-jessy-skyler-gave-5-candy.mp3,Look! Jessy gave Skyler five candies!
+distcomplete-tp,distcomplete-tp-jessy-skyler-gave-5-bug.mp3,Look! Jessy gave Skyler five bugs!
+distcomplete-tp,distcomplete-tp-jessy-skyler-gave-9-candy.mp3,Look! Jessy gave Skyler nine candies!
+distcomplete-tp,distcomplete-tp-jessy-skyler-gave-9-bug.mp3,Look! Jessy gave Skyler nine bugs!
+trialstart-tp,trialstart-tp-jessy-mackenzie-candy.mp3,Here are Jessy and Mackenzie! Jessy's backpack has 10 candies inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-jessy-mackenzie-candy.mp3,Let's see how many candies Jessy gives to Mackenzie!
+trialstart-tp,trialstart-tp-jessy-mackenzie-bug.mp3,Here are Jessy and Mackenzie! Jessy's backpack has 10 bugs inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-jessy-mackenzie-bug.mp3,Let's see how many bugs Jessy gives to Mackenzie!
+distcomplete-tp,distcomplete-tp-jessy-mackenzie-gave-1-candy.mp3,Look! Jessy gave Mackenzie one candy!
+distcomplete-tp,distcomplete-tp-jessy-mackenzie-gave-1-bug.mp3,Look! Jessy gave Mackenzie one bug!
+distcomplete-tp,distcomplete-tp-jessy-mackenzie-gave-5-candy.mp3,Look! Jessy gave Mackenzie five candies!
+distcomplete-tp,distcomplete-tp-jessy-mackenzie-gave-5-bug.mp3,Look! Jessy gave Mackenzie five bugs!
+distcomplete-tp,distcomplete-tp-jessy-mackenzie-gave-9-candy.mp3,Look! Jessy gave Mackenzie nine candies!
+distcomplete-tp,distcomplete-tp-jessy-mackenzie-gave-9-bug.mp3,Look! Jessy gave Mackenzie nine bugs!
+trialstart-tp,trialstart-tp-jessy-casey-candy.mp3,Here are Jessy and Casey! Jessy's backpack has 10 candies inside and Casey has none!
+distprompt-tp,distprompt-tp-jessy-casey-candy.mp3,Let's see how many candies Jessy gives to Casey!
+trialstart-tp,trialstart-tp-jessy-casey-bug.mp3,Here are Jessy and Casey! Jessy's backpack has 10 bugs inside and Casey has none!
+distprompt-tp,distprompt-tp-jessy-casey-bug.mp3,Let's see how many bugs Jessy gives to Casey!
+distcomplete-tp,distcomplete-tp-jessy-casey-gave-1-candy.mp3,Look! Jessy gave Casey one candy!
+distcomplete-tp,distcomplete-tp-jessy-casey-gave-1-bug.mp3,Look! Jessy gave Casey one bug!
+distcomplete-tp,distcomplete-tp-jessy-casey-gave-5-candy.mp3,Look! Jessy gave Casey five candies!
+distcomplete-tp,distcomplete-tp-jessy-casey-gave-5-bug.mp3,Look! Jessy gave Casey five bugs!
+distcomplete-tp,distcomplete-tp-jessy-casey-gave-9-candy.mp3,Look! Jessy gave Casey nine candies!
+distcomplete-tp,distcomplete-tp-jessy-casey-gave-9-bug.mp3,Look! Jessy gave Casey nine bugs!
+trialstart-tp,trialstart-tp-jessy-shawn-candy.mp3,Here are Jessy and Shawn! Jessy's backpack has 10 candies inside and Shawn has none!
+distprompt-tp,distprompt-tp-jessy-shawn-candy.mp3,Let's see how many candies Jessy gives to Shawn!
+trialstart-tp,trialstart-tp-jessy-shawn-bug.mp3,Here are Jessy and Shawn! Jessy's backpack has 10 bugs inside and Shawn has none!
+distprompt-tp,distprompt-tp-jessy-shawn-bug.mp3,Let's see how many bugs Jessy gives to Shawn!
+distcomplete-tp,distcomplete-tp-jessy-shawn-gave-1-candy.mp3,Look! Jessy gave Shawn one candy!
+distcomplete-tp,distcomplete-tp-jessy-shawn-gave-1-bug.mp3,Look! Jessy gave Shawn one bug!
+distcomplete-tp,distcomplete-tp-jessy-shawn-gave-5-candy.mp3,Look! Jessy gave Shawn five candies!
+distcomplete-tp,distcomplete-tp-jessy-shawn-gave-5-bug.mp3,Look! Jessy gave Shawn five bugs!
+distcomplete-tp,distcomplete-tp-jessy-shawn-gave-9-candy.mp3,Look! Jessy gave Shawn nine candies!
+distcomplete-tp,distcomplete-tp-jessy-shawn-gave-9-bug.mp3,Look! Jessy gave Shawn nine bugs!
+trialstart-tp,trialstart-tp-jessy-drew-candy.mp3,Here are Jessy and Drew! Jessy's backpack has 10 candies inside and Drew has none!
+distprompt-tp,distprompt-tp-jessy-drew-candy.mp3,Let's see how many candies Jessy gives to Drew!
+trialstart-tp,trialstart-tp-jessy-drew-bug.mp3,Here are Jessy and Drew! Jessy's backpack has 10 bugs inside and Drew has none!
+distprompt-tp,distprompt-tp-jessy-drew-bug.mp3,Let's see how many bugs Jessy gives to Drew!
+distcomplete-tp,distcomplete-tp-jessy-drew-gave-1-candy.mp3,Look! Jessy gave Drew one candy!
+distcomplete-tp,distcomplete-tp-jessy-drew-gave-1-bug.mp3,Look! Jessy gave Drew one bug!
+distcomplete-tp,distcomplete-tp-jessy-drew-gave-5-candy.mp3,Look! Jessy gave Drew five candies!
+distcomplete-tp,distcomplete-tp-jessy-drew-gave-5-bug.mp3,Look! Jessy gave Drew five bugs!
+distcomplete-tp,distcomplete-tp-jessy-drew-gave-9-candy.mp3,Look! Jessy gave Drew nine candies!
+distcomplete-tp,distcomplete-tp-jessy-drew-gave-9-bug.mp3,Look! Jessy gave Drew nine bugs!
+trialstart-tp,trialstart-tp-micah-jordan-candy.mp3,Here are Micah and Jordan! Micah's backpack has 10 candies inside and Jordan has none!
+distprompt-tp,distprompt-tp-micah-jordan-candy.mp3,Let's see how many candies Micah gives to Jordan!
+trialstart-tp,trialstart-tp-micah-jordan-bug.mp3,Here are Micah and Jordan! Micah's backpack has 10 bugs inside and Jordan has none!
+distprompt-tp,distprompt-tp-micah-jordan-bug.mp3,Let's see how many bugs Micah gives to Jordan!
+distcomplete-tp,distcomplete-tp-micah-jordan-gave-1-candy.mp3,Look! Micah gave Jordan one candy!
+distcomplete-tp,distcomplete-tp-micah-jordan-gave-1-bug.mp3,Look! Micah gave Jordan one bug!
+distcomplete-tp,distcomplete-tp-micah-jordan-gave-5-candy.mp3,Look! Micah gave Jordan five candies!
+distcomplete-tp,distcomplete-tp-micah-jordan-gave-5-bug.mp3,Look! Micah gave Jordan five bugs!
+distcomplete-tp,distcomplete-tp-micah-jordan-gave-9-candy.mp3,Look! Micah gave Jordan nine candies!
+distcomplete-tp,distcomplete-tp-micah-jordan-gave-9-bug.mp3,Look! Micah gave Jordan nine bugs!
+trialstart-tp,trialstart-tp-micah-skyler-candy.mp3,Here are Micah and Skyler! Micah's backpack has 10 candies inside and Skyler has none!
+distprompt-tp,distprompt-tp-micah-skyler-candy.mp3,Let's see how many candies Micah gives to Skyler!
+trialstart-tp,trialstart-tp-micah-skyler-bug.mp3,Here are Micah and Skyler! Micah's backpack has 10 bugs inside and Skyler has none!
+distprompt-tp,distprompt-tp-micah-skyler-bug.mp3,Let's see how many bugs Micah gives to Skyler!
+distcomplete-tp,distcomplete-tp-micah-skyler-gave-1-candy.mp3,Look! Micah gave Skyler one candy!
+distcomplete-tp,distcomplete-tp-micah-skyler-gave-1-bug.mp3,Look! Micah gave Skyler one bug!
+distcomplete-tp,distcomplete-tp-micah-skyler-gave-5-candy.mp3,Look! Micah gave Skyler five candies!
+distcomplete-tp,distcomplete-tp-micah-skyler-gave-5-bug.mp3,Look! Micah gave Skyler five bugs!
+distcomplete-tp,distcomplete-tp-micah-skyler-gave-9-candy.mp3,Look! Micah gave Skyler nine candies!
+distcomplete-tp,distcomplete-tp-micah-skyler-gave-9-bug.mp3,Look! Micah gave Skyler nine bugs!
+trialstart-tp,trialstart-tp-micah-mackenzie-candy.mp3,Here are Micah and Mackenzie! Micah's backpack has 10 candies inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-micah-mackenzie-candy.mp3,Let's see how many candies Micah gives to Mackenzie!
+trialstart-tp,trialstart-tp-micah-mackenzie-bug.mp3,Here are Micah and Mackenzie! Micah's backpack has 10 bugs inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-micah-mackenzie-bug.mp3,Let's see how many bugs Micah gives to Mackenzie!
+distcomplete-tp,distcomplete-tp-micah-mackenzie-gave-1-candy.mp3,Look! Micah gave Mackenzie one candy!
+distcomplete-tp,distcomplete-tp-micah-mackenzie-gave-1-bug.mp3,Look! Micah gave Mackenzie one bug!
+distcomplete-tp,distcomplete-tp-micah-mackenzie-gave-5-candy.mp3,Look! Micah gave Mackenzie five candies!
+distcomplete-tp,distcomplete-tp-micah-mackenzie-gave-5-bug.mp3,Look! Micah gave Mackenzie five bugs!
+distcomplete-tp,distcomplete-tp-micah-mackenzie-gave-9-candy.mp3,Look! Micah gave Mackenzie nine candies!
+distcomplete-tp,distcomplete-tp-micah-mackenzie-gave-9-bug.mp3,Look! Micah gave Mackenzie nine bugs!
+trialstart-tp,trialstart-tp-micah-casey-candy.mp3,Here are Micah and Casey! Micah's backpack has 10 candies inside and Casey has none!
+distprompt-tp,distprompt-tp-micah-casey-candy.mp3,Let's see how many candies Micah gives to Casey!
+trialstart-tp,trialstart-tp-micah-casey-bug.mp3,Here are Micah and Casey! Micah's backpack has 10 bugs inside and Casey has none!
+distprompt-tp,distprompt-tp-micah-casey-bug.mp3,Let's see how many bugs Micah gives to Casey!
+distcomplete-tp,distcomplete-tp-micah-casey-gave-1-candy.mp3,Look! Micah gave Casey one candy!
+distcomplete-tp,distcomplete-tp-micah-casey-gave-1-bug.mp3,Look! Micah gave Casey one bug!
+distcomplete-tp,distcomplete-tp-micah-casey-gave-5-candy.mp3,Look! Micah gave Casey five candies!
+distcomplete-tp,distcomplete-tp-micah-casey-gave-5-bug.mp3,Look! Micah gave Casey five bugs!
+distcomplete-tp,distcomplete-tp-micah-casey-gave-9-candy.mp3,Look! Micah gave Casey nine candies!
+distcomplete-tp,distcomplete-tp-micah-casey-gave-9-bug.mp3,Look! Micah gave Casey nine bugs!
+trialstart-tp,trialstart-tp-micah-shawn-candy.mp3,Here are Micah and Shawn! Micah's backpack has 10 candies inside and Shawn has none!
+distprompt-tp,distprompt-tp-micah-shawn-candy.mp3,Let's see how many candies Micah gives to Shawn!
+trialstart-tp,trialstart-tp-micah-shawn-bug.mp3,Here are Micah and Shawn! Micah's backpack has 10 bugs inside and Shawn has none!
+distprompt-tp,distprompt-tp-micah-shawn-bug.mp3,Let's see how many bugs Micah gives to Shawn!
+distcomplete-tp,distcomplete-tp-micah-shawn-gave-1-candy.mp3,Look! Micah gave Shawn one candy!
+distcomplete-tp,distcomplete-tp-micah-shawn-gave-1-bug.mp3,Look! Micah gave Shawn one bug!
+distcomplete-tp,distcomplete-tp-micah-shawn-gave-5-candy.mp3,Look! Micah gave Shawn five candies!
+distcomplete-tp,distcomplete-tp-micah-shawn-gave-5-bug.mp3,Look! Micah gave Shawn five bugs!
+distcomplete-tp,distcomplete-tp-micah-shawn-gave-9-candy.mp3,Look! Micah gave Shawn nine candies!
+distcomplete-tp,distcomplete-tp-micah-shawn-gave-9-bug.mp3,Look! Micah gave Shawn nine bugs!
+trialstart-tp,trialstart-tp-micah-drew-candy.mp3,Here are Micah and Drew! Micah's backpack has 10 candies inside and Drew has none!
+distprompt-tp,distprompt-tp-micah-drew-candy.mp3,Let's see how many candies Micah gives to Drew!
+trialstart-tp,trialstart-tp-micah-drew-bug.mp3,Here are Micah and Drew! Micah's backpack has 10 bugs inside and Drew has none!
+distprompt-tp,distprompt-tp-micah-drew-bug.mp3,Let's see how many bugs Micah gives to Drew!
+distcomplete-tp,distcomplete-tp-micah-drew-gave-1-candy.mp3,Look! Micah gave Drew one candy!
+distcomplete-tp,distcomplete-tp-micah-drew-gave-1-bug.mp3,Look! Micah gave Drew one bug!
+distcomplete-tp,distcomplete-tp-micah-drew-gave-5-candy.mp3,Look! Micah gave Drew five candies!
+distcomplete-tp,distcomplete-tp-micah-drew-gave-5-bug.mp3,Look! Micah gave Drew five bugs!
+distcomplete-tp,distcomplete-tp-micah-drew-gave-9-candy.mp3,Look! Micah gave Drew nine candies!
+distcomplete-tp,distcomplete-tp-micah-drew-gave-9-bug.mp3,Look! Micah gave Drew nine bugs!
+trialstart-tp,trialstart-tp-taylor-jordan-candy.mp3,Here are Taylor and Jordan! Taylor's backpack has 10 candies inside and Jordan has none!
+distprompt-tp,distprompt-tp-taylor-jordan-candy.mp3,Let's see how many candies Taylor gives to Jordan!
+trialstart-tp,trialstart-tp-taylor-jordan-bug.mp3,Here are Taylor and Jordan! Taylor's backpack has 10 bugs inside and Jordan has none!
+distprompt-tp,distprompt-tp-taylor-jordan-bug.mp3,Let's see how many bugs Taylor gives to Jordan!
+distcomplete-tp,distcomplete-tp-taylor-jordan-gave-1-candy.mp3,Look! Taylor gave Jordan one candy!
+distcomplete-tp,distcomplete-tp-taylor-jordan-gave-1-bug.mp3,Look! Taylor gave Jordan one bug!
+distcomplete-tp,distcomplete-tp-taylor-jordan-gave-5-candy.mp3,Look! Taylor gave Jordan five candies!
+distcomplete-tp,distcomplete-tp-taylor-jordan-gave-5-bug.mp3,Look! Taylor gave Jordan five bugs!
+distcomplete-tp,distcomplete-tp-taylor-jordan-gave-9-candy.mp3,Look! Taylor gave Jordan nine candies!
+distcomplete-tp,distcomplete-tp-taylor-jordan-gave-9-bug.mp3,Look! Taylor gave Jordan nine bugs!
+trialstart-tp,trialstart-tp-taylor-skyler-candy.mp3,Here are Taylor and Skyler! Taylor's backpack has 10 candies inside and Skyler has none!
+distprompt-tp,distprompt-tp-taylor-skyler-candy.mp3,Let's see how many candies Taylor gives to Skyler!
+trialstart-tp,trialstart-tp-taylor-skyler-bug.mp3,Here are Taylor and Skyler! Taylor's backpack has 10 bugs inside and Skyler has none!
+distprompt-tp,distprompt-tp-taylor-skyler-bug.mp3,Let's see how many bugs Taylor gives to Skyler!
+distcomplete-tp,distcomplete-tp-taylor-skyler-gave-1-candy.mp3,Look! Taylor gave Skyler one candy!
+distcomplete-tp,distcomplete-tp-taylor-skyler-gave-1-bug.mp3,Look! Taylor gave Skyler one bug!
+distcomplete-tp,distcomplete-tp-taylor-skyler-gave-5-candy.mp3,Look! Taylor gave Skyler five candies!
+distcomplete-tp,distcomplete-tp-taylor-skyler-gave-5-bug.mp3,Look! Taylor gave Skyler five bugs!
+distcomplete-tp,distcomplete-tp-taylor-skyler-gave-9-candy.mp3,Look! Taylor gave Skyler nine candies!
+distcomplete-tp,distcomplete-tp-taylor-skyler-gave-9-bug.mp3,Look! Taylor gave Skyler nine bugs!
+trialstart-tp,trialstart-tp-taylor-mackenzie-candy.mp3,Here are Taylor and Mackenzie! Taylor's backpack has 10 candies inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-taylor-mackenzie-candy.mp3,Let's see how many candies Taylor gives to Mackenzie!
+trialstart-tp,trialstart-tp-taylor-mackenzie-bug.mp3,Here are Taylor and Mackenzie! Taylor's backpack has 10 bugs inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-taylor-mackenzie-bug.mp3,Let's see how many bugs Taylor gives to Mackenzie!
+distcomplete-tp,distcomplete-tp-taylor-mackenzie-gave-1-candy.mp3,Look! Taylor gave Mackenzie one candy!
+distcomplete-tp,distcomplete-tp-taylor-mackenzie-gave-1-bug.mp3,Look! Taylor gave Mackenzie one bug!
+distcomplete-tp,distcomplete-tp-taylor-mackenzie-gave-5-candy.mp3,Look! Taylor gave Mackenzie five candies!
+distcomplete-tp,distcomplete-tp-taylor-mackenzie-gave-5-bug.mp3,Look! Taylor gave Mackenzie five bugs!
+distcomplete-tp,distcomplete-tp-taylor-mackenzie-gave-9-candy.mp3,Look! Taylor gave Mackenzie nine candies!
+distcomplete-tp,distcomplete-tp-taylor-mackenzie-gave-9-bug.mp3,Look! Taylor gave Mackenzie nine bugs!
+trialstart-tp,trialstart-tp-taylor-casey-candy.mp3,Here are Taylor and Casey! Taylor's backpack has 10 candies inside and Casey has none!
+distprompt-tp,distprompt-tp-taylor-casey-candy.mp3,Let's see how many candies Taylor gives to Casey!
+trialstart-tp,trialstart-tp-taylor-casey-bug.mp3,Here are Taylor and Casey! Taylor's backpack has 10 bugs inside and Casey has none!
+distprompt-tp,distprompt-tp-taylor-casey-bug.mp3,Let's see how many bugs Taylor gives to Casey!
+distcomplete-tp,distcomplete-tp-taylor-casey-gave-1-candy.mp3,Look! Taylor gave Casey one candy!
+distcomplete-tp,distcomplete-tp-taylor-casey-gave-1-bug.mp3,Look! Taylor gave Casey one bug!
+distcomplete-tp,distcomplete-tp-taylor-casey-gave-5-candy.mp3,Look! Taylor gave Casey five candies!
+distcomplete-tp,distcomplete-tp-taylor-casey-gave-5-bug.mp3,Look! Taylor gave Casey five bugs!
+distcomplete-tp,distcomplete-tp-taylor-casey-gave-9-candy.mp3,Look! Taylor gave Casey nine candies!
+distcomplete-tp,distcomplete-tp-taylor-casey-gave-9-bug.mp3,Look! Taylor gave Casey nine bugs!
+trialstart-tp,trialstart-tp-taylor-shawn-candy.mp3,Here are Taylor and Shawn! Taylor's backpack has 10 candies inside and Shawn has none!
+distprompt-tp,distprompt-tp-taylor-shawn-candy.mp3,Let's see how many candies Taylor gives to Shawn!
+trialstart-tp,trialstart-tp-taylor-shawn-bug.mp3,Here are Taylor and Shawn! Taylor's backpack has 10 bugs inside and Shawn has none!
+distprompt-tp,distprompt-tp-taylor-shawn-bug.mp3,Let's see how many bugs Taylor gives to Shawn!
+distcomplete-tp,distcomplete-tp-taylor-shawn-gave-1-candy.mp3,Look! Taylor gave Shawn one candy!
+distcomplete-tp,distcomplete-tp-taylor-shawn-gave-1-bug.mp3,Look! Taylor gave Shawn one bug!
+distcomplete-tp,distcomplete-tp-taylor-shawn-gave-5-candy.mp3,Look! Taylor gave Shawn five candies!
+distcomplete-tp,distcomplete-tp-taylor-shawn-gave-5-bug.mp3,Look! Taylor gave Shawn five bugs!
+distcomplete-tp,distcomplete-tp-taylor-shawn-gave-9-candy.mp3,Look! Taylor gave Shawn nine candies!
+distcomplete-tp,distcomplete-tp-taylor-shawn-gave-9-bug.mp3,Look! Taylor gave Shawn nine bugs!
+trialstart-tp,trialstart-tp-taylor-drew-candy.mp3,Here are Taylor and Drew! Taylor's backpack has 10 candies inside and Drew has none!
+distprompt-tp,distprompt-tp-taylor-drew-candy.mp3,Let's see how many candies Taylor gives to Drew!
+trialstart-tp,trialstart-tp-taylor-drew-bug.mp3,Here are Taylor and Drew! Taylor's backpack has 10 bugs inside and Drew has none!
+distprompt-tp,distprompt-tp-taylor-drew-bug.mp3,Let's see how many bugs Taylor gives to Drew!
+distcomplete-tp,distcomplete-tp-taylor-drew-gave-1-candy.mp3,Look! Taylor gave Drew one candy!
+distcomplete-tp,distcomplete-tp-taylor-drew-gave-1-bug.mp3,Look! Taylor gave Drew one bug!
+distcomplete-tp,distcomplete-tp-taylor-drew-gave-5-candy.mp3,Look! Taylor gave Drew five candies!
+distcomplete-tp,distcomplete-tp-taylor-drew-gave-5-bug.mp3,Look! Taylor gave Drew five bugs!
+distcomplete-tp,distcomplete-tp-taylor-drew-gave-9-candy.mp3,Look! Taylor gave Drew nine candies!
+distcomplete-tp,distcomplete-tp-taylor-drew-gave-9-bug.mp3,Look! Taylor gave Drew nine bugs!
+trialstart-tp,trialstart-tp-cam-jordan-candy.mp3,Here are Cam and Jordan! Cam's backpack has 10 candies inside and Jordan has none!
+distprompt-tp,distprompt-tp-cam-jordan-candy.mp3,Let's see how many candies Cam gives to Jordan!
+trialstart-tp,trialstart-tp-cam-jordan-bug.mp3,Here are Cam and Jordan! Cam's backpack has 10 bugs inside and Jordan has none!
+distprompt-tp,distprompt-tp-cam-jordan-bug.mp3,Let's see how many bugs Cam gives to Jordan!
+distcomplete-tp,distcomplete-tp-cam-jordan-gave-1-candy.mp3,Look! Cam gave Jordan one candy!
+distcomplete-tp,distcomplete-tp-cam-jordan-gave-1-bug.mp3,Look! Cam gave Jordan one bug!
+distcomplete-tp,distcomplete-tp-cam-jordan-gave-5-candy.mp3,Look! Cam gave Jordan five candies!
+distcomplete-tp,distcomplete-tp-cam-jordan-gave-5-bug.mp3,Look! Cam gave Jordan five bugs!
+distcomplete-tp,distcomplete-tp-cam-jordan-gave-9-candy.mp3,Look! Cam gave Jordan nine candies!
+distcomplete-tp,distcomplete-tp-cam-jordan-gave-9-bug.mp3,Look! Cam gave Jordan nine bugs!
+trialstart-tp,trialstart-tp-cam-skyler-candy.mp3,Here are Cam and Skyler! Cam's backpack has 10 candies inside and Skyler has none!
+distprompt-tp,distprompt-tp-cam-skyler-candy.mp3,Let's see how many candies Cam gives to Skyler!
+trialstart-tp,trialstart-tp-cam-skyler-bug.mp3,Here are Cam and Skyler! Cam's backpack has 10 bugs inside and Skyler has none!
+distprompt-tp,distprompt-tp-cam-skyler-bug.mp3,Let's see how many bugs Cam gives to Skyler!
+distcomplete-tp,distcomplete-tp-cam-skyler-gave-1-candy.mp3,Look! Cam gave Skyler one candy!
+distcomplete-tp,distcomplete-tp-cam-skyler-gave-1-bug.mp3,Look! Cam gave Skyler one bug!
+distcomplete-tp,distcomplete-tp-cam-skyler-gave-5-candy.mp3,Look! Cam gave Skyler five candies!
+distcomplete-tp,distcomplete-tp-cam-skyler-gave-5-bug.mp3,Look! Cam gave Skyler five bugs!
+distcomplete-tp,distcomplete-tp-cam-skyler-gave-9-candy.mp3,Look! Cam gave Skyler nine candies!
+distcomplete-tp,distcomplete-tp-cam-skyler-gave-9-bug.mp3,Look! Cam gave Skyler nine bugs!
+trialstart-tp,trialstart-tp-cam-mackenzie-candy.mp3,Here are Cam and Mackenzie! Cam's backpack has 10 candies inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-cam-mackenzie-candy.mp3,Let's see how many candies Cam gives to Mackenzie!
+trialstart-tp,trialstart-tp-cam-mackenzie-bug.mp3,Here are Cam and Mackenzie! Cam's backpack has 10 bugs inside and Mackenzie has none!
+distprompt-tp,distprompt-tp-cam-mackenzie-bug.mp3,Let's see how many bugs Cam gives to Mackenzie!
+distcomplete-tp,distcomplete-tp-cam-mackenzie-gave-1-candy.mp3,Look! Cam gave Mackenzie one candy!
+distcomplete-tp,distcomplete-tp-cam-mackenzie-gave-1-bug.mp3,Look! Cam gave Mackenzie one bug!
+distcomplete-tp,distcomplete-tp-cam-mackenzie-gave-5-candy.mp3,Look! Cam gave Mackenzie five candies!
+distcomplete-tp,distcomplete-tp-cam-mackenzie-gave-5-bug.mp3,Look! Cam gave Mackenzie five bugs!
+distcomplete-tp,distcomplete-tp-cam-mackenzie-gave-9-candy.mp3,Look! Cam gave Mackenzie nine candies!
+distcomplete-tp,distcomplete-tp-cam-mackenzie-gave-9-bug.mp3,Look! Cam gave Mackenzie nine bugs!
+trialstart-tp,trialstart-tp-cam-casey-candy.mp3,Here are Cam and Casey! Cam's backpack has 10 candies inside and Casey has none!
+distprompt-tp,distprompt-tp-cam-casey-candy.mp3,Let's see how many candies Cam gives to Casey!
+trialstart-tp,trialstart-tp-cam-casey-bug.mp3,Here are Cam and Casey! Cam's backpack has 10 bugs inside and Casey has none!
+distprompt-tp,distprompt-tp-cam-casey-bug.mp3,Let's see how many bugs Cam gives to Casey!
+distcomplete-tp,distcomplete-tp-cam-casey-gave-1-candy.mp3,Look! Cam gave Casey one candy!
+distcomplete-tp,distcomplete-tp-cam-casey-gave-1-bug.mp3,Look! Cam gave Casey one bug!
+distcomplete-tp,distcomplete-tp-cam-casey-gave-5-candy.mp3,Look! Cam gave Casey five candies!
+distcomplete-tp,distcomplete-tp-cam-casey-gave-5-bug.mp3,Look! Cam gave Casey five bugs!
+distcomplete-tp,distcomplete-tp-cam-casey-gave-9-candy.mp3,Look! Cam gave Casey nine candies!
+distcomplete-tp,distcomplete-tp-cam-casey-gave-9-bug.mp3,Look! Cam gave Casey nine bugs!
+trialstart-tp,trialstart-tp-cam-shawn-candy.mp3,Here are Cam and Shawn! Cam's backpack has 10 candies inside and Shawn has none!
+distprompt-tp,distprompt-tp-cam-shawn-candy.mp3,Let's see how many candies Cam gives to Shawn!
+trialstart-tp,trialstart-tp-cam-shawn-bug.mp3,Here are Cam and Shawn! Cam's backpack has 10 bugs inside and Shawn has none!
+distprompt-tp,distprompt-tp-cam-shawn-bug.mp3,Let's see how many bugs Cam gives to Shawn!
+distcomplete-tp,distcomplete-tp-cam-shawn-gave-1-candy.mp3,Look! Cam gave Shawn one candy!
+distcomplete-tp,distcomplete-tp-cam-shawn-gave-1-bug.mp3,Look! Cam gave Shawn one bug!
+distcomplete-tp,distcomplete-tp-cam-shawn-gave-5-candy.mp3,Look! Cam gave Shawn five candies!
+distcomplete-tp,distcomplete-tp-cam-shawn-gave-5-bug.mp3,Look! Cam gave Shawn five bugs!
+distcomplete-tp,distcomplete-tp-cam-shawn-gave-9-candy.mp3,Look! Cam gave Shawn nine candies!
+distcomplete-tp,distcomplete-tp-cam-shawn-gave-9-bug.mp3,Look! Cam gave Shawn nine bugs!
+trialstart-tp,trialstart-tp-cam-drew-candy.mp3,Here are Cam and Drew! Cam's backpack has 10 candies inside and Drew has none!
+distprompt-tp,distprompt-tp-cam-drew-candy.mp3,Let's see how many candies Cam gives to Drew!
+trialstart-tp,trialstart-tp-cam-drew-bug.mp3,Here are Cam and Drew! Cam's backpack has 10 bugs inside and Drew has none!
+distprompt-tp,distprompt-tp-cam-drew-bug.mp3,Let's see how many bugs Cam gives to Drew!
+distcomplete-tp,distcomplete-tp-cam-drew-gave-1-candy.mp3,Look! Cam gave Drew one candy!
+distcomplete-tp,distcomplete-tp-cam-drew-gave-1-bug.mp3,Look! Cam gave Drew one bug!
+distcomplete-tp,distcomplete-tp-cam-drew-gave-5-candy.mp3,Look! Cam gave Drew five candies!
+distcomplete-tp,distcomplete-tp-cam-drew-gave-5-bug.mp3,Look! Cam gave Drew five bugs!
+distcomplete-tp,distcomplete-tp-cam-drew-gave-9-candy.mp3,Look! Cam gave Drew nine candies!
+distcomplete-tp,distcomplete-tp-cam-drew-gave-9-bug.mp3,Look! Cam gave Drew nine bugs!
+emotion-tp,emotion-tp-jordan.mp3,"How do you think Jordan feels about what they got? Remember, you can pick as many feelings as you want!"
+valence-tp,valence-tp-jordan.mp3,How happy or unhappy does Jordan feel about what they got?
+arousal-tp,arousal-tp-jordan.mp3,How sleepy or awake does Jordan feel about what they got?
+emotion-tp,emotion-tp-skyler.mp3,"How do you think Skyler feels about what they got? Remember, you can pick as many feelings as you want!"
+valence-tp,valence-tp-skyler.mp3,How happy or unhappy does Skyler feel about what they got?
+arousal-tp,arousal-tp-skyler.mp3,How sleepy or awake does Skyler feel about what they got?
+emotion-tp,emotion-tp-mackenzie.mp3,"How do you think Mackenzie feels about what they got? Remember, you can pick as many feelings as you want!"
+valence-tp,valence-tp-mackenzie.mp3,How happy or unhappy does Mackenzie feel about what they got?
+arousal-tp,arousal-tp-mackenzie.mp3,How sleepy or awake does Mackenzie feel about what they got?
+emotion-tp,emotion-tp-casey.mp3,"How do you think Casey feels about what they got? Remember, you can pick as many feelings as you want!"
+valence-tp,valence-tp-casey.mp3,How happy or unhappy does Casey feel about what they got?
+arousal-tp,arousal-tp-casey.mp3,How sleepy or awake does Casey feel about what they got?
+emotion-tp,emotion-tp-shawn.mp3,"How do you think Shawn feels about what they got? Remember, you can pick as many feelings as you want!"
+valence-tp,valence-tp-shawn.mp3,How happy or unhappy does Shawn feel about what they got?
+arousal-tp,arousal-tp-shawn.mp3,How sleepy or awake does Shawn feel about what they got?
+emotion-tp,emotion-tp-drew.mp3,"How do you think Drew feels about what they got? Remember, you can pick as many feelings as you want!"
+valence-tp,valence-tp-drew.mp3,How happy or unhappy does Drew feel about what they got?
+arousal-tp,arousal-tp-drew.mp3,How sleepy or awake does Drew feel about what they got?

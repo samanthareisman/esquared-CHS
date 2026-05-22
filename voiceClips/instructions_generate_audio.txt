@@ -1,0 +1,95 @@
+HOW TO RUN THE AUDIO GENERATION SCRIPTS
+========================================
+
+There are two scripts to run. Run them both before uploading to GitHub.
+
+  generate_audio_fixedVars.py   → generates trial-level audio (names, amounts, resources)
+                                   output: audio/fixedVars/
+  
+  generate_instructions.py      → generates instruction screens + emotion test audio
+                                   output: audio_instructions/en/
+
+
+BEFORE YOU START
+----------------
+1. Make sure Python is installed.
+   Open Terminal and type:
+       python3 --version
+   If you see a version number, you're good.
+
+2. Install the one required library (only needed once):
+       pip3 install requests
+
+
+STEPS TO RUN
+------------
+
+Step 1 — Get your ElevenLabs API key
+   - Go to elevenlabs.io and log in
+   - Click your profile icon in the bottom left
+   - Click "API Keys"
+   - Copy the key
+
+Step 2 — Open Terminal and navigate to where the scripts are saved
+   For example, if they're in your Downloads folder:
+       cd ~/Downloads
+
+Step 3 — Set your API key (paste your actual key after the =)
+       export ELEVENLABS_API_KEY=4bf83b9351581b62f97c01a3e158079d0fbe0c3df6c9c0491b6854ffbbd8d135
+
+   Note: this only lasts for the current Terminal session.
+   You'll need to re-run this line if you close and reopen Terminal.
+
+Step 4 — Run the trial audio script
+   Dry run first (no charges):
+       python3 generate_audio_fixedVars.py --dry-run
+
+   If it looks good, run for real:
+       python3 generate_audio_fixedVars.py
+
+   This generates ~894 clips into audio/fixedVars/
+   Takes roughly 15-20 minutes.
+
+Step 5 — Run the instructions script
+   Dry run first:
+       python3 generate_instructions.py --dry-run
+
+   If it looks good, run for real:
+       python3 generate_instructions.py
+
+   This generates ~146 clips into audio_instructions/en/
+   Takes roughly 5-10 minutes.
+
+
+IF YOU NEED TO REGENERATE SPECIFIC CLIPS
+-----------------------------------------
+Both scripts skip files that already exist. To regenerate only specific clips:
+
+   Option A — delete the clips you want to redo, then rerun the script.
+              It will regenerate only the missing files.
+
+   Option B — rename the old folder as a backup (e.g. audio_5.20.25)
+              then run the script normally to regenerate everything fresh.
+
+   Option C — force regenerate everything:
+       python3 generate_audio_fixedVars.py --force
+       python3 generate_instructions.py --force
+
+
+IF SOMETHING GOES WRONG
+------------------------
+- "ELEVENLABS_API_KEY not set" → you forgot Step 3. Re-run the export line.
+- "ERROR 401" → your API key is wrong or expired. Get a new one from ElevenLabs.
+- "ERROR 429" → you hit the rate limit. Wait a few minutes and rerun.
+  The script skips already-generated files so it will pick up where it left off.
+- Any other error → the failed filenames are printed at the end.
+  Just rerun the script and it will retry only the missing clips.
+
+
+AFTER BOTH SCRIPTS FINISH
+--------------------------
+Upload both output folders to GitHub or S3:
+  - audio/fixedVars/
+  - audio_instructions/en/
+
+These URLs are what the jsPsych task uses to load clips during the study.
