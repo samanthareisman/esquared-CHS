@@ -1,3 +1,4 @@
 *.dylib
 /voiceClips/whisperx_env
 voiceClips/generate_timestamps.py
+voiceClips/generate_timestamps.py
