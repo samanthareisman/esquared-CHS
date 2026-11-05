@@ -24,7 +24,7 @@ from pathlib import Path
 
 API_KEY  = os.environ.get("ELEVENLABS_API_KEY", "")
 VOICE_ID = "rHgIYq4QuHGKeR1k8KoM"
-MODEL    = "eleven_turbo_v2"
+MODEL    = "eleven_v4"
 
 OUT_DIR  = Path("audio/dynamicVars")
 MANIFEST = OUT_DIR / "manifest.json"
@@ -97,7 +97,7 @@ for d in DICTATORS:
         f"Remember, you can pick as many feelings as you want!"
     )
     clips[f"valence-sp-{d}"] = f"How happy or unhappy do you feel about what {cap(d)} gave you?"
-    clips[f"arousal-sp-{d}"] = f"How sleepy or awake do you feel about what {cap(d)} gave you?"
+    clips[f"arousal-sp-{d}"] = f"How calm or awake do you feel about what {cap(d)} gave you?"
 
 # ── TP sentences ──────────────────────────────────────────────────────────────
 
@@ -131,7 +131,15 @@ for rv in RECEIVERS:
         f"Remember, you can pick as many feelings as you want!"
     )
     clips[f"valence-tp-{rv}"] = f"How happy or unhappy does {cap(rv)} feel about what they got?"
-    clips[f"arousal-tp-{rv}"] = f"How sleepy or awake does {cap(rv)} feel about what they got?"
+    clips[f"arousal-tp-{rv}"] = f"How calm or awake does {cap(rv)} feel about what they got?"
+
+# ── Attention checks (trial_check_amount) ────────────────────────────────────
+# Named by plural resource label + receiver name, with a fixed "you" clip for SP trials.
+
+for label in ("candies", "bugs"):
+    clips[f"{label}-attention-check-you"] = f"How many {label} did you get?"
+    for rv in RECEIVERS:
+        clips[f"{label}-attention-check-{rv}"] = f"How many {label} did {cap(rv)} get?"
 
 # ── Generate ──────────────────────────────────────────────────────────────────
 
@@ -159,13 +167,14 @@ def generate_clip(key, text):
             "text": text,
             "model_id": MODEL,
             "voice_settings": {
-                "stability": 0.40,
-                "similarity_boost": 1.0,
-                "style": 0.35,
-                "speed": 0.85,
+                "stability": 0.50,
+                "similarity_boost": 0.75,
+                "style": 0.0,
+                "speed": 1.0,
+                "use_speaker_boost": True,
             },
         },
-        timeout=30,
+        timeout=500,
     )
 
     if resp.status_code != 200:

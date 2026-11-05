@@ -31,7 +31,7 @@ from itertools import permutations
 
 API_KEY  = os.environ.get("ELEVENLABS_API_KEY", "")
 VOICE_ID = "rHgIYq4QuHGKeR1k8KoM"
-MODEL    = "eleven_turbo_v2"
+MODEL    = "eleven_v4"
 
 OUT_DIR  = Path("audio/fixedVars")
 MANIFEST = OUT_DIR / "manifest.json"
@@ -45,10 +45,11 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 # ── Voice settings ────────────────────────────────────────────────────────────
 
 VOICE_SETTINGS = {
-    "stability":        0.40,
-    "similarity_boost": 1.0,
-    "style":            0.35,
-    "speed":            0.85,
+    "stability":        0.50,
+    "similarity_boost": 0.75,
+    "style":            0.0,
+    "speed":            1.0,
+    "use_speaker_boost": True,
 }
 
 # ── Instruction character names (Logan/Emery, not Alex/Taylor) ───────────────
@@ -82,8 +83,11 @@ clips["instr-welcome-girl"] = "Welcome! In today's activity I'm going to ask you
 # avatarSelect
 clips["instr-avatar-select"] = "Okay, before we begin the next activity, I want you to choose an avatar. This avatar is special because it represents you! Pick the avatar that you want to represent you in today's activity."
 
+# niceChoice (trial_niceChoice screen)
+clips["instr-nice-choice"] = "Awesome choice! This picture here will represent you in the game. Now let's meet someone new."
+
 # meetLogan (same for both genders)
-clips["instr-meet-logan"] = f"Nice choice! Okay, today we're going to play a game about feelings! In this game, you will meet characters like {CHAR1}."
+clips["instr-meet-logan"] = f"Okay, today we're going to play a game about feelings! In this game, you will meet characters like {CHAR1}."
 
 # meetBackpack — gender dependent (He/She pronoun)
 clips["instr-meet-backpack-boy"] = f"Each character has a backpack. And look, you can see what's inside! See the inside of {CHAR1}'s backpack? He has two pieces of candy inside!"
@@ -107,11 +111,13 @@ clips["instr-finish-share"] = f"Look! {CHAR1} shared one candy with {CHAR2}!"
 # gameOutro
 clips["instr-game-outro"] = "Now, you know how the game works! Before we get started I have two questions."
 
-# practiceCandy
-clips["instr-practice-candy"] = "I want you to think about most of the kids in your community. How many of these 10 candies do you think most of the kids in your community would give to someone?"
+# practiceCandy (should / would)
+clips["instr-practice-candy-should"] = "I want you to think about most of the kids in your community. How many of these 10 candies do you think most of the kids in your community should give to someone?"
+clips["instr-practice-candy-would"] = "I want you to think about most of the kids in your community. How many of these 10 candies do you think most of the kids in your community would give to someone?"
 
-# practiceBugs
-clips["instr-practice-bugs"] = "Next, I want you to think about most of the kids in your community. How many of these 10 bugs do you think most of the kids in your community would give to someone?"
+# practiceBugs (should / would)
+clips["instr-practice-bugs-should"] = "Next, I want you to think about most of the kids in your community. How many of these 10 bugs do you think most of the kids in your community should give to someone?"
+clips["instr-practice-bugs-would"] = "Next, I want you to think about most of the kids in your community. How many of these 10 bugs do you think most of the kids in your community would give to someone?"
 
 # discreteEmotions
 clips["instr-discrete-emotions"] = "Great job practicing! Now I'm going to teach you about one more part. After each share, I will ask you how the Receiver feels. When you're the Receiver, I will ask you how you feel! People have lots of different feelings when someone shares something with them, like happy, sad, angry, surprised, excited, jealous, guilty, or okay. When I ask you about these feelings, you can pick as many as you want!"
@@ -123,16 +129,16 @@ clips["instr-practice-discrete"] = "Let's try now! Tell me how you're feeling to
 clips["instr-affect-intro"] = "To help us talk about feelings, we are also going to use special pictures. These special pictures help people tell us how they feel. When I ask about feelings, just pick the picture that fits best."
 
 # valenceIntro
-clips["instr-valence-intro"] = "Here are some of the pictures! Let's look! You can see on one end, the character is frowning. On the other end, they are smiling. In the middle, they aren't smiling or frowning. You can choose the happy side for feelings like happy, glad, cheerful, pleased, good, or hopeful. You can choose the frowning side for feelings like unhappy, scared, angry, or bad. If a feeling is neither unhappy nor happy, you can choose the picture in the middle."
+clips["instr-valence-intro"] = "Here are some of the pictures! You can see that there are nine different pictures of your avatar. Let's take a closer look! Notice that on one side, your avatar is frowning. On the other side, your avatar is smiling, and in the middle, your avatar is not smiling or frowning. These pictures are in order from a very unhappy avatar to a very happy avatar. Let's look on the happy side. See how I've circled the picture where your avatar is smiling very big? You can choose this picture for feelings like happy, glad, cheerful, pleased, good, or hopeful. Let's look on the other side. Do you see how I've circled the picture where your avatar is frowning? You can choose this picture for feelings like unhappy, scared, angry, or bad. If a feeling is neutral, which means a feeling isn't happy or unhappy, you can choose the picture in the middle. If you feel in between very happy and a little bit happy, you can choose one of these pictures. If you feel in between very unhappy and a little bit unhappy, you can choose one of these pictures."
 
 # valencePractice
 clips["instr-valence-practice"] = "Now let's practice! How unhappy or happy are you feeling today? Tell me which number! You can take as long as you need."
 
 # arousalIntro
-clips["instr-arousal-intro"] = "You will also see these pictures! See on one end, the character is very still with their eyes closed. On the other end, they are full of energy and wide awake. This is like when you get excited and can't sit still, or like when you have butterflies in your stomach and are very nervous. You can choose the awake side for feelings like excited, enthusiastic, nervous, scared, or wide awake. You can choose the sleepy side for feelings like calm, relaxed, bored, or sleepy. If a feeling is neither sleepy nor awake, you can choose the picture in the middle."
+clips["instr-arousal-intro"] = "Now let's look at one more set of pictures! These pictures show your avatar when they are very still with their eyes closed. You can use this side for feelings like calm, relaxed, bored or sleepy. You can use the pictures on the other side for feelings like excited, nervous, jittery, active, or wide awake. Notice it looks like your avatar is jumping up and down and their stomach is excited. This is like when you get excited and can't sit still or like when you have butterflies in your stomach when you are very nervous. You can use these pictures to tell us about how excited or calm you are feeling, or someone else is feeling. If you are very excited, enthusiastic, nervous, scared, or wide awake you would choose this picture. Just like in the pictures before, you can use these photos when you are feeling in between. If you feel calm, relaxed, or sleepy, you can choose this picture. Just like in the pictures before, you can use these photos when you are feeling in between. If a feeling is neither calm nor excited, you can choose the picture in the middle."
 
 # arousalPractice
-clips["instr-arousal-practice"] = "Let's practice! How sleepy or awake are you feeling today? Tell me which number! You can take as long as you need."
+clips["instr-arousal-practice"] = "Let's practice! How calm or awake are you feeling today?"
 
 # finishIntro
 clips["instr-finish-intro"] = "Great job! Now you know how to play the game. Let's start!"
@@ -162,6 +168,10 @@ clips["liking-bugs"]  = "How much do you like bugs like this?"
 # End screen
 clips["end-headline"] = "All done!"
 clips["end-subtext"]  = "Thank you for participating."
+
+# Block intro screens (you block / other-person block)
+clips["section-you"]  = "In this part, you will be the Receiver, and you will answer questions about yourself."
+clips["section-else"] = "In this part, someone else will be the Receiver, and you will answer questions about them."
 
 # ─────────────────────────────────────────────────────────────────────────────
 # SECTION 3 — EMOTION TEST
@@ -232,10 +242,7 @@ def generate_clip(key, text):
         print("ERROR: ELEVENLABS_API_KEY not set. Run: export ELEVENLABS_API_KEY=sk-...")
         sys.exit(1)
 
-    # Instruction clips run slightly faster than other clips
     voice_settings = {**VOICE_SETTINGS}
-    if key.startswith("instr-"):
-        voice_settings["speed"] = 0.9
 
     url = f"https://api.elevenlabs.io/v1/text-to-speech/{VOICE_ID}"
     resp = requests.post(
@@ -246,7 +253,7 @@ def generate_clip(key, text):
             "model_id": MODEL,
             "voice_settings": voice_settings,
         },
-        timeout=30,
+        timeout=500,
     )
 
     if resp.status_code != 200:

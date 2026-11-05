@@ -1,11 +1,11 @@
 {
-  "excited": 22.249,
-  "enthusiastic": 22.95,
-  "nervous": 24.15,
-  "scared": 24.891,
-  "wide-awake": 25.711,
-  "calm": 29.413,
-  "relaxed": 30.053,
-  "bored": 30.934,
-  "sleepy": 31.694
+  "calm": 12.421,
+  "relaxed": 13.261,
+  "bored": 14.322,
+  "sleepy": 15.243,
+  "excited": 19.168,
+  "nervous": 20.23,
+  "jittery": 21.051,
+  "active": 21.932,
+  "wide-awake": 22.833
 }

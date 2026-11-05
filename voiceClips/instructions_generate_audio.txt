@@ -35,7 +35,7 @@ Step 2 — Open Terminal and navigate to where the scripts are saved
        cd ~/Downloads
 
 Step 3 — Set your API key (paste your actual key after the =)
-       export ELEVENLABS_API_KEY=4bf83b9351581b62f97c01a3e158079d0fbe0c3df6c9c0491b6854ffbbd8d135
+       export ELEVENLABS_API_KEY=sk...
 
    Note: this only lasts for the current Terminal session.
    You'll need to re-run this line if you close and reopen Terminal.

@@ -2,6 +2,7 @@
   "instr-welcome-boy": "instr-welcome-boy.mp3",
   "instr-welcome-girl": "instr-welcome-girl.mp3",
   "instr-avatar-select": "instr-avatar-select.mp3",
+  "instr-nice-choice": "instr-nice-choice.mp3",
   "instr-meet-logan": "instr-meet-logan.mp3",
   "instr-meet-backpack-boy": "instr-meet-backpack-boy.mp3",
   "instr-meet-backpack-girl": "instr-meet-backpack-girl.mp3",
@@ -11,8 +12,10 @@
   "instr-watch-share": "instr-watch-share.mp3",
   "instr-finish-share": "instr-finish-share.mp3",
   "instr-game-outro": "instr-game-outro.mp3",
-  "instr-practice-candy": "instr-practice-candy.mp3",
-  "instr-practice-bugs": "instr-practice-bugs.mp3",
+  "instr-practice-candy-should": "instr-practice-candy-should.mp3",
+  "instr-practice-candy-would": "instr-practice-candy-would.mp3",
+  "instr-practice-bugs-should": "instr-practice-bugs-should.mp3",
+  "instr-practice-bugs-would": "instr-practice-bugs-would.mp3",
   "instr-discrete-emotions": "instr-discrete-emotions.mp3",
   "instr-practice-discrete": "instr-practice-discrete.mp3",
   "instr-affect-intro": "instr-affect-intro.mp3",
@@ -33,6 +36,8 @@
   "liking-bugs": "liking-bugs.mp3",
   "end-headline": "end-headline.mp3",
   "end-subtext": "end-subtext.mp3",
+  "section-you": "section-you.mp3",
+  "section-else": "section-else.mp3",
   "etest-q-1-boy": "etest-q-1-boy.mp3",
   "etest-q-2-boy": "etest-q-2-boy.mp3",
   "etest-q-3-boy": "etest-q-3-boy.mp3",
@@ -144,7 +149,5 @@
   "etest-opts-guilty-jealous-excited-surprised-boy": "etest-opts-guilty-jealous-excited-surprised-boy.mp3",
   "etest-opts-guilty-jealous-excited-surprised-girl": "etest-opts-guilty-jealous-excited-surprised-girl.mp3",
   "etest-opts-guilty-jealous-surprised-excited-boy": "etest-opts-guilty-jealous-surprised-excited-boy.mp3",
-  "etest-opts-guilty-jealous-surprised-excited-girl": "etest-opts-guilty-jealous-surprised-excited-girl.mp3",
-  "section-you": "section-you.mp3",
-  "section-else": "section-else.mp3"
+  "etest-opts-guilty-jealous-surprised-excited-girl": "etest-opts-guilty-jealous-surprised-excited-girl.mp3"
 }

@@ -1,0 +1,47 @@
+{
+  "frowningBox": {
+    "start": 7.636,
+    "end": 9.997
+  },
+  "smilingBox": {
+    "start": 10.497,
+    "end": 12.719
+  },
+  "middleBox": {
+    "start": 13.299,
+    "end": 16.381
+  },
+  "arrow": {
+    "start": 18.622,
+    "reach": 20.543,
+    "end": 21.764
+  },
+  "dimHappy": {
+    "start": 22.264,
+    "end": 34.682
+  },
+  "happyBox": {
+    "start": 24.06,
+    "end": 34.682
+  },
+  "dimFrown": {
+    "start": 35.323,
+    "end": 46.005
+  },
+  "frownBox": {
+    "start": 37.063,
+    "end": 46.005
+  },
+  "neutralBox": {
+    "start": 51.202,
+    "end": 52.724
+  },
+  "happyGroup": {
+    "start": 57.171,
+    "end": 58.773
+  },
+  "frownGroup": {
+    "start": 63.52,
+    "end": 65.143
+  }
+}
