@@ -77,8 +77,8 @@ clips = {}
 # ─────────────────────────────────────────────────────────────────────────────
 
 # welcomeTxt — gender dependent
-clips["instr-welcome-boy"] = "Welcome! In today's activity I'm going to ask you questions about emotions. First, I'm going to tell you some stories about a little boy and ask you how he feels."
-clips["instr-welcome-girl"] = "Welcome! In today's activity I'm going to ask you questions about emotions. First, I'm going to tell you some stories about a little girl and ask you how she feels."
+clips["instr-welcome-boy"] = "Welcome! In today's activity I'm going to ask you questions about emotions. If you ever need to replay what I am saying, you can click here! First, I'm going to tell you some stories about a little boy and ask you how he feels."
+clips["instr-welcome-girl"] = "Welcome! In today's activity I'm going to ask you questions about emotions. If you ever need to replay what I am saying, you can click here! First, I'm going to tell you some stories about a little girl and ask you how she feels."
 
 # avatarSelect
 clips["instr-avatar-select"] = "Okay, before we begin the next activity, I want you to choose an avatar. This avatar is special because it represents you! Pick the avatar that you want to represent you in today's activity."
