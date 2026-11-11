@@ -120,7 +120,7 @@ clips["instr-practice-bugs-should"] = "Next, I want you to think about most of t
 clips["instr-practice-bugs-would"] = "Next, I want you to think about most of the kids in your community. How many of these 10 bugs do you think most of the kids in your community would give to someone?"
 
 # discreteEmotions
-clips["instr-discrete-emotions"] = "Great job practicing! Now I'm going to teach you about one more part. After each share, I will ask you how the Receiver feels. When you're the Receiver, I will ask you how you feel! People have lots of different feelings when someone shares something with them, like happy, sad, angry, surprised, excited, jealous, guilty, or okay. When I ask you about these feelings, you can pick as many as you want! Go ahead and press the continue button to practice!""
+clips["instr-discrete-emotions"] = "Great job practicing! Now I'm going to teach you about one more part. After each share, I will ask you how the Receiver feels. When you're the Receiver, I will ask you how you feel! People have lots of different feelings when someone shares something with them, like happy, sad, angry, surprised, excited, jealous, guilty, or okay. When I ask you about these feelings, you can pick as many as you want! Go ahead and press the continue button to practice!"
 
 # practiceDiscrete
 clips["instr-practice-discrete"] = "Let's try now! Tell me how you're feeling today! Are you happy, sad, angry, surprised, excited, jealous, guilty, or okay? You can pick as many feelings as you want and you can take as long as you need."
