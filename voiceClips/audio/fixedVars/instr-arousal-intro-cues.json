@@ -1,0 +1,38 @@
+{
+  "calmSide": {
+    "start": 2.894,
+    "end": 12.704
+  },
+  "awakeSide": {
+    "start": 13.2,
+    "end": 32.444
+  },
+  "excitedSide": {
+    "start": 39.109,
+    "end": 47.872
+  },
+  "excitedBox": {
+    "start": 44.851,
+    "end": 45.911
+  },
+  "awakeGroup": {
+    "start": 48.192,
+    "end": 50.833
+  },
+  "calmSide2": {
+    "start": 51.353,
+    "end": 57.575
+  },
+  "calmBox": {
+    "start": 54.674,
+    "end": 55.635
+  },
+  "calmGroup": {
+    "start": 57.895,
+    "end": 60.536
+  },
+  "neutralBox": {
+    "start": 61.016,
+    "end": 65.378
+  }
+}

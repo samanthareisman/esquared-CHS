@@ -1,47 +1,47 @@
 {
   "frowningBox": {
-    "start": 7.636,
-    "end": 9.997
+    "start": 7.756,
+    "end": 10.138
   },
   "smilingBox": {
-    "start": 10.497,
-    "end": 12.719
+    "start": 10.658,
+    "end": 13.02
   },
   "middleBox": {
-    "start": 13.299,
-    "end": 16.381
+    "start": 13.54,
+    "end": 16.702
   },
   "arrow": {
-    "start": 18.622,
-    "reach": 20.543,
-    "end": 21.764
+    "start": 18.944,
+    "reach": 20.985,
+    "end": 22.146
   },
   "dimHappy": {
-    "start": 22.264,
-    "end": 34.682
+    "start": 22.633,
+    "end": 35.081
   },
   "happyBox": {
-    "start": 24.06,
-    "end": 34.682
+    "start": 24.414,
+    "end": 35.081
   },
   "dimFrown": {
-    "start": 35.323,
-    "end": 46.005
+    "start": 35.602,
+    "end": 46.229
   },
   "frownBox": {
-    "start": 37.063,
-    "end": 46.005
+    "start": 37.203,
+    "end": 46.229
   },
   "neutralBox": {
-    "start": 51.202,
-    "end": 52.724
+    "start": 51.411,
+    "end": 52.932
   },
   "happyGroup": {
-    "start": 57.171,
-    "end": 58.773
+    "start": 57.315,
+    "end": 58.876
   },
   "frownGroup": {
-    "start": 63.52,
-    "end": 65.143
+    "start": 63.579,
+    "end": 65.12
   }
 }

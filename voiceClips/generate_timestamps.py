@@ -156,6 +156,15 @@ CLIP_CUES = {
     ],
 }
 
+# Emotion-test questions 3, 5, 7: red circle around the character for "this boy" / "this boy feeling"
+# (the circle1/circle2 cues in trial_emotiontest in CHS_task.js)
+for _n in (3, 5, 7):
+    for _g in ("boy", "girl"):
+        CLIP_CUES[f"etest-q-{_n}-{_g}"] = [
+            ("circle1", f"this {_g}",         f"this {_g}"),
+            ("circle2", f"this {_g} feeling", "feeling"),
+        ]
+
 
 def etest_targets(clip_stem):
     """etest-opts-sad-happy-okay-angry-girl -> one group: sad, happy, okay, angry."""
@@ -283,6 +292,9 @@ def build_jobs():
     jobs = []
     for name, groups in CLIP_TARGETS.items():
         jobs.append((FIXED_DIR / f"{name}.mp3", groups))
+    for stem in CLIP_CUES:
+        if stem.startswith("etest-q-"):
+            jobs.append((FIXED_DIR / f"{stem}.mp3", []))
     for p in sorted(FIXED_DIR.glob("etest-opts-*.mp3")):
         jobs.append((p, etest_targets(p.stem)))
     for p in sorted(DYNAMIC_DIR.glob("trialstart-*.mp3")):
